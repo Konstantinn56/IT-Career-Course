@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _123
+namespace Ex_7___Verdict_The_Thief
 {
     class Program
     {
@@ -52,7 +52,7 @@ namespace _123
 
             }
             double Verdict = Math.Ceiling(ThiefId / 127);
-            if(Verdict > 1)
+            if (Verdict > 1)
             {
                 Console.WriteLine($"Prisoner with id {ThiefId} is sentenced to {Verdict} years");
             }
@@ -60,7 +60,6 @@ namespace _123
             {
                 Console.WriteLine($"Prisoner with id {ThiefId} is sentenced to {Verdict} year");
             }
-
         }
     }
 }

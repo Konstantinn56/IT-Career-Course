@@ -6,53 +6,28 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            string DataType = Console.ReadLine();//sbyte , int , long
-            int rows = int.Parse(Console.ReadLine());
-            double ThiefId = 0;
+            double num = double.Parse(Console.ReadLine());
 
-            switch (DataType)
+            if (num % 1 != 0)
             {
-                case "sbyte":
-                    ThiefId = sbyte.MinValue;
-                    for (int i = 0; i < rows; i++)
-                    {
-                        double id = double.Parse(Console.ReadLine());
-                        if(id > ThiefId && id <= sbyte.MaxValue)
-                        {
-                            ThiefId = id;
-                        }
-                    }
-                    break;
-
-                case "int":
-                    ThiefId = int.MinValue;
-                    for (int i = 0; i < rows; i++)
-                    {
-                        double id = double.Parse(Console.ReadLine());
-                        if (id > ThiefId && id <= int.MaxValue)
-                        {
-                            ThiefId = id;
-                        }
-                    }
-                    break;
-
-                case "long":
-                    ThiefId = long.MinValue;
-                    for (int i = 0; i < rows; i++)
-                    {
-                        double id = double.Parse(Console.ReadLine());
-                        if (id > ThiefId && id <= long.MaxValue)
-                        {
-                            ThiefId = id;
-                        }
-                    }
-                    break;
-
-                default:
-                    break;
-
+                Console.WriteLine("Rainy");
             }
+            else if (num >= sbyte.MinValue && num <= sbyte.MaxValue)
+            {
+                Console.WriteLine("Sunny");
+            }
+            else if (num >= int.MinValue && num <= int.MaxValue)
+            {
+                Console.WriteLine("Cloudy");
+            }
+            else if (num >= long.MinValue && num <= long.MaxValue)
+            {
+                Console.WriteLine("Windy");
+            }
+
+
         }
+    }
 
     }
 }
