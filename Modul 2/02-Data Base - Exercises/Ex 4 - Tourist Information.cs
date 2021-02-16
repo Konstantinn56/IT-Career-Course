@@ -8,40 +8,44 @@ namespace ConsoleApp1
         {
             string ImperialSys = Console.ReadLine().ToLower();//miles,inches,feet,yards,gallons
             double value = double.Parse(Console.ReadLine());
-            double Converter = 0;
+            double ConverterValue = 0;
             double ConvertedValue = 0;
 
             switch (ImperialSys)
             {
                 case "miles":
-                    ConvertedValue = value * 1.6;
-                    Console.WriteLine($"{value} miles = {ConvertedValue:F2} kilometers");
+                    ConverterValue = 1.6;
+                    Converter("miles" , "kilometers" , value , ConvertedValue, ConverterValue);
                     break;
 
                 case "inches":
-                    ConvertedValue = value * 2.54;
-                    Console.WriteLine($"{value} inches = {ConvertedValue:F2} centimeters");
+                    ConverterValue = 2.54;
+                    Converter("inches", "centimeters", value, ConvertedValue, ConverterValue);
                     break;
 
                 case "feet":
-                    ConvertedValue = value * 30;
-                    Console.WriteLine($"{value} feet = {ConvertedValue:F2} centimeters");
+                    ConverterValue = 30;
+                    Converter("feet", "centimeters", value, ConvertedValue, ConverterValue);
                     break;
 
                 case "yards":
-                    ConvertedValue = value * 0.91;
-                    Console.WriteLine($"{value} yards = {ConvertedValue:F2} meters");
+                    ConverterValue = 0.91;
+                    Converter("yards", "meters", value, ConvertedValue, ConverterValue);
                     break;
 
                 case "gallons":
-                    ConvertedValue = value * 3.8;
-                    Console.WriteLine($"{value} gallons = {ConvertedValue:F2} liters");
+                    ConverterValue = 3.8;
+                    Converter("gallons", "liters", value, ConvertedValue, ConverterValue);
                     break;
 
                 default:
                     break;
             }
         }
-        
+        static void Converter(string FirstImprerialSys, string SecondImprerialSys , double value, double ConvertedValue , double ConverterValue)
+        {
+            ConvertedValue = value * ConverterValue;
+            Console.WriteLine($"{value} {FirstImprerialSys} = {ConvertedValue:F2} {SecondImprerialSys}");
+        }
     }
 }
