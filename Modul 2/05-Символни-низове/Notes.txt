@@ -1,0 +1,111 @@
+			string str = "Dara";
+            char[] ch = str.ToCharArray();
+            ch[0] = 'M';
+            Console.WriteLine(ch[0]);
+            Console.WriteLine(str[0]);//Read Only
+			
+			21.Ex4
+			string str = "Hi!";
+            string uniStr = null;
+
+            for (int i = 0; i < str.Length; i++)
+            {
+                uniStr += String.Format("\\U{0:x4}", (int)str[i]);
+            }
+            Console.WriteLine(uniStr);
+			//////////////////////////////////////
+			21.Ex5
+			string firstStr = "123";
+            string secondStr = "522";
+
+            int minLength = Math.Min(firstStr.Length, secondStr.Length);
+            int maxLength = Math.Max(firstStr.Length, secondStr.Length);
+
+            int sum = 0;
+
+            for (int i = 0; i < minLength; i++)
+            {
+                int multiplied = secondStr[i] * firstStr[i];
+                 sum+= multiplied;
+            }
+
+            string maxString = GetMaxString(firstStr, secondStr);
+            for (int i = minLength; i >= maxLength; i++)
+            {
+                 sum += maxString[i];
+            }
+            Console.WriteLine(sum);
+        }
+
+        static string GetMaxString(string first, string second)
+        {
+            return first.Length > second.Length ? first : second;
+        }
+		//////////////////////////////////////////
+		21.Ex6
+		static void Main(string[] args)
+        {
+            string word = Console.ReadLine();
+            Console.WriteLine($"{IsPalindrome(word)}");
+
+        }
+        static bool IsPalindrome(string word)
+        {
+            //012345678910
+            //alenafanela
+            bool areEquals = false;
+            if(word.Length == 1)
+            {
+                areEquals = true;
+                return areEquals;
+            }
+            for (int i = 0; i < word.Length / 2; i++)
+            {
+                if (word[i].Equals(word[word.Length - 1 - i]))
+                {
+                    areEquals = true;
+                }
+                else
+                {
+                    areEquals = false;
+                    break;
+                }
+            }
+            return areEquals;
+        }
+		//////////////////////////////////////////
+		string word = "some string, ";
+            int index = word.IndexOf(",");
+            Console.WriteLine(word.Substring(0, index));
+            //some string
+//////////////////////////////////////////////////
+23.Еx1
+			string text = Console.ReadLine();
+            string pattern = Console.ReadLine();
+
+            while (text.Contains(pattern))
+            {
+                int startIndex = text.IndexOf(pattern);
+
+                text = text.Remove(startIndex, pattern.Length);
+
+                int endIndex = text.LastIndexOf(pattern);
+                text = text.Remove(endIndex, pattern.Length);
+
+                pattern = pattern.Remove(pattern.Length / 2, 1);
+                Console.WriteLine("Shake it");
+            }
+            Console.WriteLine("No Shake.");
+            Console.WriteLine(text);
+//////////////////////////////////////
+			StringBuilder sb = new StringBuilder("Hello ");//capacity, value
+            sb.AppendLine("World!");
+            sb.AppendLine("New Line");
+            sb.AppendFormat($"{sb}");
+            Console.WriteLine(sb);//Hello World!
+                                  //New Line
+                                  //Hello World!
+                                  //New Line
+
+            sb[0] = 'h';
+            Console.WriteLine(sb);//hello World!
