@@ -1,0 +1,654 @@
+//01.FitnessEquipment - tests
+Case=Case 001
+grade reduction=0
+input=6
+exercise bike
+exercise bike
+treadmill
+exercise bike
+dumbbells
+cross trainer
+output=13544.00
+
+Case=Case 002
+grade reduction=0
+input=5
+cross trainer
+treadmill
+exercise bike
+dumbbells
+cross trainer
+output=11665.00
+
+Case=Case 003
+Fail message= Fail_case_01
+grade reduction=10
+input=3
+exercise bike
+exercise bike
+exercise bike
+output=5367.00
+
+Case=Case 004
+Fail message= Fail_case_02
+grade reduction=10
+input=4
+treadmill
+treadmill
+treadmill
+treadmill
+output=23596.00
+
+Case=Case 005
+Fail message= Fail_case_03
+grade reduction=10
+input=5
+cross trainer
+cross trainer
+cross trainer
+cross trainer
+cross trainer
+output=8495.00
+
+Case=Case 006
+Fail message= Fail_case_04
+grade reduction=10
+input=3
+dumbbells
+dumbbells
+dumbbells
+output=1737.00
+
+Case=Case 007
+Fail message= Fail_case_05
+grade reduction=10
+input=10
+treadmill
+treadmill
+treadmill
+cross trainer
+cross trainer
+exercise bike
+exercise bike
+exercise bike
+dumbbells
+dumbbells
+output=27620.00
+
+Case=Case 008
+Fail message= Fail_case_06
+grade reduction=10
+input=6
+treadmill
+dumbbells
+exercise bike
+cross trainer
+treadmill
+dumbbells
+output=16444.00
+
+Case=Case 009
+Fail message= Fail_case_07
+grade reduction=10
+input=8
+treadmill
+cross trainer
+dumbbells
+cross trainer
+treadmill
+dumbbells
+exercise bike
+dumbbells
+output=18722.00
+
+Case=Case 010
+Fail message= Fail_case_08
+grade reduction=10
+input=10
+treadmill
+cross trainer
+dumbbells
+cross trainer
+treadmill
+dumbbells
+exercise bike
+dumbbells
+treadmill
+exercise bike
+output=26410.00
+
+Case=Case 011
+Fail message= Fail_case_09
+grade reduction=10
+input=7
+treadmill
+cross trainer
+dumbbells
+dumbbells
+exercise bike
+dumbbells
+exercise bike
+output=12913.00
+
+Case=Case 012
+Fail message= Fail_case_10
+grade reduction=10
+input=20
+treadmill
+cross trainer
+dumbbells
+cross trainer
+exercise bike
+dumbbells
+exercise bike
+treadmill
+treadmill
+dumbbells
+treadmill
+cross trainer
+dumbbells
+cross trainer
+exercise bike
+dumbbells
+exercise bike
+treadmill
+treadmill
+dumbbells
+output=52820.00
+
+//////////////////////////////////////////////////////
+//02_FitnessVisitors - tests
+Case=Case 001
+grade reduction=0
+input=Ivan, Peter, Simona, Krasimir, Petya
+Add visitor
+Stoyan
+Remove first visitor
+Add visitor on position
+Katya
+3
+END
+output=Peter, Simona, Krasimir, Katya, Petya, Stoyan
+
+Case=Case 002
+grade reduction=0
+input=Stefani, Nikola, Martin, Ivo
+Remove first visitor
+Add visitor on position
+Georgi
+2
+Add visitor
+Mariya
+END
+output=Nikola, Martin, Georgi, Ivo, Mariya
+
+Case=Case 003
+Fail message= Fail_case_01
+grade reduction=10
+input=Stefan, Ivan, Niki, Nasko
+Remove visitor on position
+2
+Remove last visitor
+Add visitor
+Simeon
+END
+output=Stefan, Ivan, Simeon
+
+Case=Case 004
+Fail message= Fail_case_02
+grade reduction=10
+input=Kalina, Vera, Peter
+Add visitor
+Ivan
+Add visitor
+Toni
+Add visitor on position
+Kiril
+2
+END
+output=Kalina, Vera, Kiril, Peter, Ivan, Toni
+
+Case=Case 005
+Fail message= Fail_case_03
+grade reduction=10
+input=Petya, Aleks, Vili, Sofia
+Remove first visitor
+Remove last visitor
+Add visitor
+Stela
+END
+output=Aleks, Vili, Stela
+
+Case=Case 006
+Fail message= Fail_case_04
+grade reduction=10
+input=Aleks, Vili, Stela, Koko, Mitko
+Remove first visitor
+Add visitor on position
+Ivan
+2
+Remove last visitor
+Add visitor
+Pesho
+END
+output=Vili, Stela, Ivan, Koko, Pesho
+
+Case=Case 007
+Fail message= Fail_case_05
+grade reduction=10
+input=Vili, Stela, Ivan, Koko, Pesho
+Remove last visitor
+Add visitor
+Krisi
+Remove first visitor
+Add visitor
+Denis
+Remove visitor on position
+1
+END
+output=Stela, Koko, Krisi, Denis
+
+Case=Case 008
+Fail message= Fail_case_06
+grade reduction=10
+input=Stela, Koko, Krisi, Denis
+Add visitor
+Hristo
+Add visitor
+Samuil
+Remove first visitor
+Add visitor on position
+Kolyo
+3
+END
+output=Koko, Krisi, Denis, Kolyo, Hristo, Samuil
+
+Case=Case 009
+Fail message= Fail_case_07
+grade reduction=10
+input=Koko, Krisi, Denis, Kolyo, Hristo, Samuil
+Remove first visitor
+Remove first visitor
+Remove first visitor
+Add visitor
+Ani
+Add visitor
+Geri
+Remove visitor on positiion
+1
+END
+output=Kolyo, Hristo, Samuil, Ani, Geri
+
+Case=Case 010
+Fail message= Fail_case_08
+grade reduction=10
+input=Kolyo, Hristo, Samuil, Ani, Geri
+Add visitor
+Ivan
+Remove first visitor
+Remove first visitor
+Remove visitor on position
+2
+END
+output=Samuil, Ani, Ivan
+
+Case=Case 011
+Fail message= Fail_case_09
+grade reduction=10
+input=Samuil, Ani, Ivan
+Remove first visitor
+Remove last visitor
+Add visitor
+Pesho
+Add visitor
+Gosho
+END
+output=Ani, Pesho, Gosho
+
+Case=Case 012
+Fail message= Fail_case_10
+grade reduction=10
+input=Ani, Pesho, Gosho
+Add visitor
+Tedi
+Add visitor
+Stefi
+Add visitor on position
+Galya
+2
+END
+output=Ani, Pesho, Galya, Gosho, Tedi, Stefi
+
+//////////////////////////////////////////////////////////////////////////
+//03_WordGame - tests
+Case=Case 001
+grade reduction=0
+input=cat
+dog
+turtle
+END OF GAME
+output=Winner is word: turtle
+Points: 672
+
+Case=Case 002
+grade reduction=0
+input=Tower
+special
+computers
+sauna
+END OF GAME
+output=Winner is word: computers
+Points: 994
+
+Case=Case 003
+Fail message= Fail_case_01
+grade reduction=10
+input=watch
+Pesho
+historical
+overview
+sport
+END OF GAME
+output=Winner is word: historical
+Points: 1104
+
+Case=Case 004
+Fail message= Fail_case_02
+grade reduction=10
+input=File
+Program
+Terminal
+words
+static
+END OF GAME
+output=Winner is word: Terminal
+Points: 843
+
+Case=Case 005
+Fail message= Fail_case_03
+grade reduction=10
+input=Java
+star
+song
+write
+Reasons
+END OF GAME
+output=Winner is word: Reasons
+Points: 746
+
+Case=Case 006
+Fail message= Fail_case_04
+grade reduction=10
+input=shirt
+yellow
+monitor
+Pen
+knife
+END OF GAME
+output=Winner is word: monitor
+Points: 776
+
+Case=Case 007
+Fail message= Fail_case_05
+grade reduction=10
+input=name
+New
+Console
+Stop
+Folder
+END OF GAME
+output=Winner is word: Console
+Points: 738
+
+Case=Case 008
+Fail message= Fail_case_06
+grade reduction=10
+input=Stadium
+Beer
+chips
+number
+movie
+END OF GAME
+output=Winner is word: Stadium
+Points: 742
+
+Case=Case 009
+Fail message= Fail_case_07
+grade reduction=10
+input=Stadium
+Beer
+chips
+number
+movie
+MOTHER
+baby
+Sweatshirt
+END OF GAME
+output=Winner is word: Sweatshirt
+Points: 1135
+
+Case=Case 010
+Fail message= Fail_case_08
+grade reduction=10
+input=Monday
+Tuesday
+Wednesday
+Thursday
+END OF GAME
+output=Winner is word: Wednesday
+Points: 947
+
+Case=Case 011
+Fail message= Fail_case_09
+grade reduction=10
+input=Friday
+Saturday
+Sunday
+END OF GAME
+output=Winner is word: Saturday
+Points: 860
+
+Case=Case 012
+Fail message= Fail_case_10
+grade reduction=10
+input=Test
+workspace
+eclipse
+sap
+work
+END OF GAME
+output=Winner is word: workspace
+Points: 975
+//////////////////////////////////////////////////////////////
+//04_FootballSeason - tests
+Case=Case 001
+grade reduction=0
+input=Simo - 2
+Ivan - 3
+Ivo - 2
+Simo - 4
+Simo - 2
+Ivo - 3
+Aleks - 2
+End of season
+output=Aleks -> 2
+Ivan -> 3
+Ivo -> 5
+Simo -> 8
+
+Case=Case 002
+grade reduction=0
+input=Misho - 3
+Sasho - 4
+Niki - 2
+Pesho - 3
+Niki - 2
+Misho - 1
+Sasho - 2
+End of season
+output=Misho -> 4
+Niki -> 4
+Pesho -> 3
+Sasho -> 6
+
+Case=Case 003
+Fail message= Fail_case_01
+grade reduction=10
+input=Georgi - 2
+Nikola - 3
+Koci - 2
+Ivan - 2
+Georgi - 3
+Koci - 5
+Ivan - 4
+End of season
+output=Georgi -> 5
+Ivan -> 6
+Koci -> 7
+Nikola -> 3
+
+Case=Case 004
+Fail message= Fail_case_02
+grade reduction=10
+input=Rado - 2
+Rado - 3
+Rado - 4
+Marti - 3
+Marin - 2
+Marti - 2
+Ivo - 2
+End of season
+output=Ivo -> 2
+Marin -> 2
+Marti -> 5
+Rado -> 9
+
+
+Case=Case 005
+Fail message= Fail_case_03
+grade reduction=10
+input=Steve - 2
+Rooney - 2
+Ronaldo - 2
+Steve - 3
+Ronaldo - 3
+End of season
+output=Ronaldo -> 5
+Rooney -> 2
+Steve -> 5
+
+Case=Case 006
+Fail message= Fail_case_04
+grade reduction=10
+input=Steve - 2
+Rooney - 2
+Ronaldo - 2
+Steve - 3
+Ronaldo - 3
+Benzema - 2
+Ronaldo - 2
+End of season
+output=Benzema -> 2
+Ronaldo -> 7
+Rooney -> 2
+Steve -> 5
+
+Case=Case 007
+Fail message= Fail_case_05
+grade reduction=10
+input=Steve - 2
+Rooney - 2
+Ronaldo - 2
+Steve - 3
+Ronaldo - 3
+Benzema - 2
+Ronaldo - 2
+Steve - 2
+Rooney - 3
+Ronaldo - 2
+Benzema - 4
+End of season
+output=Benzema -> 6
+Ronaldo -> 9
+Rooney -> 5
+Steve -> 7
+
+Case=Case 008
+Fail message= Fail_case_06
+grade reduction=10
+input=Steve - 2
+Rooney - 1
+Ronaldo - 2
+Steve - 6
+Ronaldo - 3
+Benzema - 2
+Ronaldo - 2
+Steve - 4
+Rooney - 3
+Ronaldo - 2
+Benzema - 4
+End of season
+output=Benzema -> 6
+Ronaldo -> 9
+Rooney -> 4
+Steve -> 12
+
+Case=Case 009
+Fail message= Fail_case_07
+grade reduction=10
+input=Rooney - 1
+Ronaldo - 2
+Steve - 1
+Ronaldo - 3
+Benzema - 4
+Ronaldo - 2
+Steve - 4
+Rooney - 3
+Ronaldo - 2
+Benzema - 3
+End of season
+output=Benzema -> 7
+Ronaldo -> 9
+Rooney -> 4
+Steve -> 5
+
+Case=Case 010
+Fail message= Fail_case_08
+grade reduction=10
+input=Ivo - 1
+Ivo - 2
+Ivo - 5
+Ivo - 0
+Ivo - 100000
+End of season
+output=Ivo -> 100008
+
+Case=Case 011
+Fail message= Fail_case_09
+grade reduction=10
+input=Desi - 0
+Desi - 65
+Dani - 1
+Dani - 125
+End of season
+output=Dani -> 126
+Desi -> 65
+
+Case=Case 012
+Fail message= Fail_case_10
+grade reduction=10
+input=Ivo - 1
+Ivo - 2
+Ivo - 5
+Ivo - 0
+Ivo - 100000
+Desi - 0
+Desi - 65
+Dani - 1
+Dani - 125
+Ceco - 1000202
+End of season
+output=Ceco -> 1000202
+Dani -> 126
+Desi -> 65
+Ivo -> 100008
