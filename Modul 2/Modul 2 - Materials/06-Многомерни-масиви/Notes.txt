@@ -1,0 +1,272 @@
+създаване:
+int[,] intMatrix = new int[3,4];
+int[,,] intMatrix2 = new int[3,4,5];
+
+int[] array = new int[] { 1, 2, 3, 4, 5, 6 };
+
+int[,] matrix = new int[,]
+{
+    {1,2,3,4,5,6},
+    {1,2,3,4,5,6},
+    {1,2,3,4,5,6},
+    {1,2,3,4,5,6},
+    {1,2,3,4,5,6},
+    {1,2,3,4,5,6}
+};
+
+/////////////////////////////////////////////////////////////////
+Console.WriteLine(array.Length);//duljina na masiv
+Console.WriteLine(matrix.Length);//vrushta ni obema/redove i koloni
+Console.WriteLine(matrix.GetLength(0));//kolko reda
+Console.WriteLine(matrix.GetLength(1));//kolko koloni
+/////////////////////////////////////////////////////////////////
+
+//obhojdane i printirane na matrix
+for (int rows = 0; rows < matrix.GetLength(0); rows++)
+{
+    for (int col = 0; col < matrix.GetLength(1); col++)
+    {
+        Console.Write($"{matrix[rows,col]}, ");
+    }
+    Console.WriteLine();
+}
+
+/////////////////////////////////////////////////////////////////
+Ex.2
+int rows = int.Parse(Console.ReadLine());
+int cols = int.Parse(Console.ReadLine());
+
+double[,] matrix = new double[rows,cols +1];
+
+for (int row = 0; row < rows; row++)
+{
+    double sum = 0;
+    for (int col = 0; col < cols; col++)
+    {
+        matrix[row, col] = int.Parse(Console.ReadLine());
+        sum += matrix[row, col];
+    }
+    matrix[row, cols] = sum / cols;
+}
+
+for (int row = 0; row < matrix.GetLength(0); row++)
+{
+    for (int col = 0; col < matrix.GetLength(1); col++)
+    {
+        Console.Write($"{matrix[row,col], 8} ");
+    }
+    Console.WriteLine();
+}
+/////////////////////////////////////////////////////////
+Ex.3
+int rows = int.Parse(Console.ReadLine());
+int cols = int.Parse(Console.ReadLine());
+
+int[,] matrix = new int[rows, cols];
+
+for (int row = 0; row < rows; row++)
+{
+    int[] currentRowNums = Console.ReadLine().Split().Select(int.Parse).ToArray();
+    for (int col = 0; col < cols; col++)
+    {
+
+        matrix[row, col] = currentRowNums[col];
+    }
+}
+Console.WriteLine();
+int[] minNumbers = new int[cols];
+for (int col = 0; col < cols; col++)
+{
+    int minNum = int.MaxValue;
+    for (int row = 0; row < rows; row++)
+    {
+        if(matrix[row,col] < minNum)
+        {
+            minNum = matrix[row, col];
+        }
+    }
+    minNumbers[col] = minNum;
+}
+
+for (int row = 0; row < rows; row++)
+{
+    for (int col = 0; col < cols; col++)
+    {
+        Console.Write($"{matrix[row,col]} ");
+
+    }
+    Console.WriteLine();
+}
+Console.WriteLine(string.Join(" ",minNumbers));
+/////////////////////////////////////////////////////////////////
+Ex.4
+int[] size = Console.ReadLine().Split().Select(int.Parse).ToArray();
+
+int[,] matrix = new int[size[0],size[1]];
+
+/////////////////////////////////////////////////////////////////////
+
+for (int row = 0; row < size[0]; row++)
+{
+    int[] currentRow = Console.ReadLine().Split().Select(int.Parse).ToArray();
+    for (int col = 0; col < size[1]; col++)
+    {
+        matrix[row, col] = currentRow[col];
+
+    }
+}
+
+////////////////////////////////////////////////////////////////////
+
+int mainDiagonalSum = 0;
+int secondaryDiagonalSum = 0;
+int upperDiagonalSum = 0;
+int lowerDiagonalSum = 0;
+int mainDiagonalEvenSum = 0;
+int evenNumbersRows = 0;
+int oddNumbersRows = 0;
+
+for (int row = 0; row < matrix.GetLength(0); row++)
+{
+    for (int col = 0; col < matrix.GetLength(1); col++)
+    {
+        if (row == col)
+        {
+            mainDiagonalSum += matrix[row, col];
+            if (matrix[row, col] % 2 == 0)
+            {
+                mainDiagonalEvenSum += matrix[row, col];
+            }
+        }
+        else if(row < col)
+        {
+            upperDiagonalSum += matrix[row, col];
+        }
+        else if(row > col)
+        {
+            lowerDiagonalSum += matrix[row, col];
+        }
+        if ((row + col) == matrix.GetLength(0) - 1)
+        {
+            secondaryDiagonalSum += matrix[row, col];
+        }
+        if((row == 0 || row == matrix.GetLength(0) - 1) && matrix[row, col] % 2 == 0)
+        {
+            evenNumbersRows += matrix[row, col];
+        }
+        if ((col == 0 || col == matrix.GetLength(1) - 1) && matrix[row,col] % 2 != 0)
+        {
+            oddNumbersRows += matrix[row, col];
+        }
+    }
+}
+
+double profit = 0;
+
+if(mainDiagonalSum == secondaryDiagonalSum && upperDiagonalSum % 2 == 0 && lowerDiagonalSum % 2 != 0)
+{
+    profit = lowerDiagonalSum + mainDiagonalEvenSum + 
+}
+
+////////////////////////////////////////////////////////////////////
+jagged Arrays:
+int[][] jaggedArray =
+{
+    new int[] {1,2,3,4},
+    new int[] {5,6,7,8}
+};
+/////////////////////////////////////////
+
+Ex1
+int rows = int.Parse(Console.ReadLine());
+int cols = int.Parse(Console.ReadLine());
+
+int[,] matrix = new int[rows, cols];
+
+for (int row = 0; row < rows; row++)
+{
+    int[] currentRow = Console.ReadLine().Split().Select(int.Parse).ToArray();
+    for (int  col = 0;  col <cols;  col++)
+    {
+        matrix[row, col] = currentRow[col];
+    }
+}
+
+int maxSum = int.MinValue;
+int bestRow = 0;
+int bestCol = 0;
+for (int row = 0; row < rows; row++)
+{
+    for (int col = 0; col < cols; col++)
+    {
+        int sum = matrix[row, col] + matrix[row, col + 1] + matrix[row + 1, col] + matrix[row + 1, col + 1];
+
+        if(sum > maxSum)
+        {
+            maxSum = sum;
+            bestRow = row;
+            bestCol = col;
+        }
+    }
+}
+Console.WriteLine($"Max sum = {maxSum}");
+Console.WriteLine($"{matrix[bestRow,bestCol]} {matrix[bestRow, bestCol + 1]}");
+Console.WriteLine($"{matrix[bestRow + 1, bestCol]} {matrix[bestRow + 1, bestCol + 1]}");
+
+////////////////////////////////////////////////////
+
+Ex 2
+int size = 3;
+
+char[,] matrix = new char[size, size];
+
+for (int row = 0; row < size; row++)
+{
+    char[] line = Console.ReadLine().Split().Select(char.Parse).ToArray();
+    for (int col = 0; col < size; col++)
+    {
+        matrix[row, col] = line[col];
+    }
+}
+
+bool hasWinner = false;
+
+for (int row = 0; row < size; row++)
+{
+    int col = 0;
+    if(matrix[row, col] == matrix[row,col+1] && matrix[row,col] == matrix[row,col + 2] && matrix[row,col].ToString() != "-")
+    {
+        hasWinner = true;
+        Console.WriteLine($"The winner is: {matrix[row,col]}");
+    }
+}
+
+for (int col = 0; col < size; col++)
+{
+    int row = 0;
+    if (matrix[row, col] == matrix[row+1, col] && matrix[row, col] == matrix[row+2, col] && matrix[row, col].ToString() != "-")
+    {
+        hasWinner = true;
+        Console.WriteLine($"The winner is: {matrix[row, col]}");
+    }
+}
+
+
+int dRow = 0;
+int dCol = 0;
+if(matrix[dRow,dCol] == matrix[dRow + 1 , dCol + 1] && matrix[dRow , dCol] == matrix[dRow + 2 , dCol +2] && matrix[dRow, dCol].ToString() != "-")
+{
+    hasWinner = true;
+    Console.WriteLine($"The winner is: {matrix[dRow, dCol]}");
+}
+
+if (matrix[dRow, dCol + 2] == matrix[dRow + 1 , dCol + 1] && matrix[dRow, dCol + 2] == matrix[dRow + 2, dCol] && matrix[dRow, dCol + 2].ToString() != "-")
+{
+    hasWinner = true;
+    Console.WriteLine($"The winner is: {matrix[dRow, dCol + 2]}");
+}
+
+if (!hasWinner)
+{
+    Console.WriteLine("There is no winner");
+}
