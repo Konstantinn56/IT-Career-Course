@@ -150,3 +150,75 @@ namespace Modul_3
 }
 ----------------------------------------------------------------
 Ex 3
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Modul_3
+{
+    class Family
+    {
+        public List<Person> people = new List<Person>();
+
+        public void Print()
+        {
+            var sorted = people.OrderBy(p => p.name);
+
+            foreach (var person in sorted)
+            {
+                Console.WriteLine($"{person.name} {person.age}");
+            }
+        }
+
+        public void Statistic()
+        {
+            var sorted = people.OrderBy(p => p.name).Select(p => p.age > 30);
+
+        }
+    }
+}
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Modul_3
+{
+    class Person
+    {
+        public string name;
+        public int age;
+
+    }
+}
+using System;
+using System.Collections.Generic;
+
+namespace Modul_3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int peoplesCount = int.Parse(Console.ReadLine());
+            Family family = new Family();
+
+            for (int i = 0; i < peoplesCount; i++)
+            {
+                string[] personInfo = Console.ReadLine().Split();
+                string name = personInfo[0];
+                int age = int.Parse(personInfo[1]);
+
+                Person person = new Person();
+                person.name = name;
+                person.age = age;
+
+                family.people.Add(person);
+
+            }
+            family.Statistic();
+        }
+    }
+}
+----------------------------------------------------------------
+
