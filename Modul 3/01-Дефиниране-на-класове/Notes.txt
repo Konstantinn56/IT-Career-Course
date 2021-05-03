@@ -1,0 +1,152 @@
+АТД - Абстрактни типове данни
+
+----------------------------------------------------------------
+using System;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Modul_3
+{
+    class Dice
+    {
+        public string type;
+        public int sides;
+
+        public int Roll()
+        {
+            Random rnd = new Random();
+            return rnd.Next(1,sides);
+        }
+        
+    }
+}
+
+
+using System;
+using System.Collections.Generic;
+
+namespace Modul_3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Dice dice = new Dice();
+            dice.type = "six sided";
+            dice.sides = 6;
+            int number = dice.Roll();
+            Console.WriteLine(number);
+
+            Dice dice1 = new Dice();
+            
+        }
+    }
+}
+----------------------------------------------------------------
+Ex 1
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Modul_3
+{
+    class Person
+    {
+        public string name;
+        public int age;
+
+    }
+}
+
+using System;
+using System.Collections.Generic;
+
+namespace Modul_3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Person person1 = new Person();
+            person1.name = "Pesho";
+            person1.age = 20;
+
+            Person person2 = new Person();
+            person1.name = "Gosho";
+            person1.age = 18;
+
+            Person person3 = new Person();
+            person1.name = "Stamat";
+            person1.age = 43;
+        }
+    }
+}
+----------------------------------------------------------------
+Ex 2
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Modul_3
+{
+    class Family
+    {
+        public List<Person> people = new List<Person>();
+
+        public void Print()
+        {
+            var sorted = people.OrderBy(p => p.name);
+
+            foreach (var person in sorted)
+            {
+                Console.WriteLine($"{person.name} {person.age}");
+            }
+        }
+    }
+}
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Modul_3
+{
+    class Person
+    {
+        public string name;
+        public int age;
+
+    }
+}
+using System;
+using System.Collections.Generic;
+
+namespace Modul_3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int peoplesCount = int.Parse(Console.ReadLine());
+            Family family = new Family();
+
+            for (int i = 0; i < peoplesCount; i++)
+            {
+                string[] personInfo = Console.ReadLine().Split();
+                string name = personInfo[0];
+                int age = int.Parse(personInfo[1]);
+
+                Person person = new Person();
+                person.name = name;
+                person.age = age;
+
+                family.people.Add(person);
+                
+            }
+            family.Print();
+        }
+    }
+}
+----------------------------------------------------------------
+Ex 3
