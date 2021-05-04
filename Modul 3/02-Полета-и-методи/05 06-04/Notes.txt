@@ -1,0 +1,190 @@
+Ex3
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace ConsoleApp2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int n = int.Parse(Console.ReadLine());
+
+            List<Car> cars = new List<Car>();
+
+            for (int i = 0; i < n; i++)
+            {
+                string[] carArgs = Console.ReadLine().Split();
+                
+                int speed = int.Parse(carArgs[1]);
+                int power = int.Parse(carArgs[2]);
+                Engine engine = new Engine(speed, power);
+
+                int weight = int.Parse(carArgs[3]);
+                string type = carArgs[4];
+                Cargo cargo = new Cargo(weight, type);
+
+                List<Tire> tires = new List<Tire>();
+                for (int j = 5; j < carArgs.Length - 1; j+=2)
+                {
+                    double pressure = double.Parse(carArgs[j]);
+                    int age = int.Parse(carArgs[j + 1]);
+                    Tire tire = new Tire(pressure, age);
+                    tires.Add(tire);
+                }
+
+                Car car = new Car(carArgs[0], engine, cargo, tires);
+                cars.Add(car);
+            }
+            string command = Console.ReadLine();
+            if (command.Equals("fragile"))
+            {
+                foreach (var car in cars)
+                {
+                    if (car.Cargo.Type.Equals("fragile") || car.Tires.Any(t => t.Pressure < 1))
+                    {
+                        Console.WriteLine(car.Model);
+                    }
+                    
+                }
+            }
+            else if (command.Equals("flamable"))
+            {
+
+                var flammableCars = cars.Where(c => c.Cargo.Type.Equals("flamable") && c.Engine.Power > 250);
+                Console.WriteLine(string.Join(Environment.NewLine,flammableCars.Select(c => c.Model)));
+            }
+        }
+    }
+}
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace ConsoleApp2
+{
+    public class Car
+    {
+        private string model;
+        private Engine engine;
+        private Cargo cargo;
+        private List<Tire> tires;
+
+        public Car(string model, Engine engine, Cargo cargo, List<Tire> tires)
+        {
+            this.Model = model;
+            this.Engine = engine;
+            this.Cargo = cargo;
+            this.Tires = tires;
+        }
+
+        public string Model
+        {
+            get { return model; }
+            set { model = value; }
+        }
+        public Engine Engine
+        {
+            get { return engine; }
+            set { engine = value; }
+        }
+        public Cargo Cargo
+        {
+            get { return cargo; }
+            set { cargo = value; }
+        }
+        public List<Tire> Tires
+        {
+            get { return tires; }
+            set { tires = value; }
+        }
+    }
+}
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace ConsoleApp2
+{
+    public class Engine
+    {
+        private int speed;
+        private int power;
+
+        public Engine(int speed, int power)
+        {
+           this.Speed = speed;
+           this.Power = power;
+        }
+
+        public int Speed
+        {
+            get { return speed; }
+            set { speed = value; }
+        }
+        public int Power
+        {
+            get { return power; }
+            set { power = value; }
+        }
+    }
+}
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace ConsoleApp2
+{
+    public class Cargo
+    {
+        private int weight;
+        private string type;
+
+        public Cargo(int weight, string type)
+        {
+            this.Weight = weight;
+            this.Type = type;
+        }
+
+        public int Weight
+        {
+            get { return weight; }
+            set { weight = value; }
+        }
+        public string Type
+        {
+            get { return type; }
+            set { type = value; }
+        }
+    }
+}
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace ConsoleApp2
+{
+    public class Tire
+    {
+        private double pressure;
+        private int age;
+
+        public Tire(double pressure, int age)
+        {
+            this.Pressure = pressure;
+            this.Age = age;
+        }
+
+        public double Pressure
+        {
+            get { return pressure; }
+            set { pressure = value; }
+        }
+        public int Age
+        {
+            get { return age; }
+            set { age = value; }
+        }
+    }
+}
