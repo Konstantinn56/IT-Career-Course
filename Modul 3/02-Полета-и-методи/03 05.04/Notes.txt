@@ -1,0 +1,93 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Modul_3
+{
+    class BankAccount
+    {
+        private string id;
+        private decimal balance;
+
+
+        public string Id
+        {
+            get { return id; }
+            set { id = value; }
+        }
+        public decimal Balance
+        {
+            get { return balance; }
+            set { balance = value; }
+        }
+
+    }
+}
+using System;
+using System.Collections.Generic;
+
+namespace Modul_3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            BankAccount account = new BankAccount();
+
+            account.Id = "aasdsadsad3214215215215";
+            account.Balance = 123213213;
+        }
+    }
+}
+----------------------------------------------------------------
+Ex1
+using System;
+using System.Collections.Generic;
+
+namespace Modul_3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            BankAccount account = new BankAccount();
+
+            account.Id = 1;
+            account.Balance = 15;
+
+            Console.WriteLine(account);
+
+        }
+    }
+}
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Modul_3
+{
+    class BankAccount
+    {
+        private int id;
+        private decimal balance;
+
+
+        public int Id
+        {
+            get { return id; }
+            set { id = value; }
+        }
+        public decimal Balance
+        {
+            get { return balance; }
+            set { balance = value; }
+        }
+
+        public override string ToString()
+        {
+            return $"Account {Id}, balance {Balance}";
+        }
+    }
+}
+----------------------------------------------------------------
+Ex 3

@@ -1,0 +1,120 @@
+Ex 4
+using System;
+
+namespace Project1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int count = int.Parse(Console.ReadLine());
+            
+            Family family = new Family();
+
+            for (int i = 0; i < count; i++)
+            {
+                string[] info = Console.ReadLine().Split();
+                string name = info[0];
+                int age = int.Parse(info[1]);
+
+                Person person = new Person();
+                person.Name = name;
+                person.Age = age;
+                family.AddMember(person);
+            }
+            Console.WriteLine(family.GetOldestMember());
+        }
+    }
+}
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Project1
+{
+    public class Family
+    {
+        private List<Person> people = new List<Person>();
+
+        public void AddMember(Person person)
+        {
+            this.people.Add(person);
+        }
+        public Person GetOldestMember()
+        {
+            
+            return this.people.OrderByDescending(p => p.Age).FirstOrDefault();
+        }
+    }
+}
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Project1
+{
+    public class Person
+    {
+        private string name;
+        private int age;
+
+   
+        public string Name
+        {
+            get { return name; }
+            set { name = value; }
+        }
+        public int Age
+        {
+            get { return age; }
+            set { age = value; }
+        }
+
+        public override string ToString()
+        {
+            return $"{this.Name} {this.Age}";
+        }
+    }
+}
+----------------------------------------------------------------
+Ex6
+using System;
+
+namespace Ex6
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string firstDate = Console.ReadLine();
+            string secondDate = Console.ReadLine();
+
+            
+            int result = DateModifier.DifferenceBetweenDates(firstDate, secondDate);
+            Console.WriteLine(result);
+        }
+    }
+}
+
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Ex6
+{
+    public static class DateModifier
+    {
+        public static int DifferenceBetweenDates(string firstDate, string secondDate)
+        {
+            DateTime date1 = DateTime.Parse(firstDate);
+            DateTime date2 = DateTime.Parse(secondDate);
+
+            var days = (date2 - date1).Days;
+            return Math.Abs(days);
+        }
+    }
+}
+
+----------------------------------------------------------------
+
