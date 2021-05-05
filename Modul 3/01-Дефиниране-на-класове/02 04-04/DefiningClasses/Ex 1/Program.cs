@@ -6,7 +6,14 @@ namespace Ex_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string name = Console.ReadLine();
+            int age = int.Parse(Console.ReadLine());
+
+            Person person = new Person();
+            person.Name = name;
+            person.Age = age;
+
+            Console.WriteLine(person);
         }
     }
 }
