@@ -6,7 +6,13 @@ namespace Ex_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            BankAccount acc = new BankAccount();
+
+            acc.Id = 1;
+            acc.Deposit(15);
+            acc.Withdraw(5);
+
+            Console.WriteLine(acc.ToString());
         }
     }
 }
