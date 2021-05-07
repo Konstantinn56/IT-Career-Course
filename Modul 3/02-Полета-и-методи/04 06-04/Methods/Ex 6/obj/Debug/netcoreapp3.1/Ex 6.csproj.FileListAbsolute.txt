@@ -1,0 +1,13 @@
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\02-Полета-и-методи\04 06-04\Methods\Ex 6\bin\Debug\netcoreapp3.1\Ex 6.exe
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\02-Полета-и-методи\04 06-04\Methods\Ex 6\bin\Debug\netcoreapp3.1\Ex 6.deps.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\02-Полета-и-методи\04 06-04\Methods\Ex 6\bin\Debug\netcoreapp3.1\Ex 6.runtimeconfig.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\02-Полета-и-методи\04 06-04\Methods\Ex 6\bin\Debug\netcoreapp3.1\Ex 6.runtimeconfig.dev.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\02-Полета-и-методи\04 06-04\Methods\Ex 6\bin\Debug\netcoreapp3.1\Ex 6.dll
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\02-Полета-и-методи\04 06-04\Methods\Ex 6\bin\Debug\netcoreapp3.1\Ex 6.pdb
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\02-Полета-и-методи\04 06-04\Methods\Ex 6\obj\Debug\netcoreapp3.1\Ex 6.AssemblyInfoInputs.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\02-Полета-и-методи\04 06-04\Methods\Ex 6\obj\Debug\netcoreapp3.1\Ex 6.AssemblyInfo.cs
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\02-Полета-и-методи\04 06-04\Methods\Ex 6\obj\Debug\netcoreapp3.1\Ex 6.csproj.CoreCompileInputs.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\02-Полета-и-методи\04 06-04\Methods\Ex 6\obj\Debug\netcoreapp3.1\Ex 6.dll
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\02-Полета-и-методи\04 06-04\Methods\Ex 6\obj\Debug\netcoreapp3.1\Ex 6.pdb
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\02-Полета-и-методи\04 06-04\Methods\Ex 6\obj\Debug\netcoreapp3.1\Ex 6.genruntimeconfig.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\02-Полета-и-методи\04 06-04\Methods\Ex 6\obj\Debug\netcoreapp3.1\Ex 6.csprojAssemblyReference.cache

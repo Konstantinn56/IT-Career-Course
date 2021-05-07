@@ -6,7 +6,13 @@ namespace Ex_6
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string date1 = Console.ReadLine();
+            string date2 = Console.ReadLine();
+
+            
+
+            int days = DateModifier.DiffrenceBetweenDates(date1, date2);
+            Console.WriteLine(days);
         }
     }
 }
