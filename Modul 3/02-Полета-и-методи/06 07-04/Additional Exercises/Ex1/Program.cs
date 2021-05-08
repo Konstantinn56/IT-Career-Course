@@ -26,6 +26,7 @@ namespace Ex1
             {
                 string model = info[1];
                 int km = int.Parse(info[2]);
+                //Car car = cars.Where(c => c.Model.Equals(model)).FirstOrDefault();
                 foreach (Car car in carList)
                 {
                     if (model.Equals(car.Model))
@@ -36,10 +37,7 @@ namespace Ex1
                 info = Console.ReadLine().Split();
             }
 
-            foreach (Car car in carList)
-            {
-                Console.WriteLine(car);
-            }
+            Console.WriteLine(string.Join(Environment.NewLine, carList));
         }
     }
 }
