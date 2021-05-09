@@ -1,0 +1,503 @@
+Case=Case 001
+grade reduction = 0
+input=AddMedicine Analgin 3.70
+MedicineInfo Analgin
+CreatePharmacy Pharmacy1
+PharmacyInfo Pharmacy1
+Order Paracetamol Pharmacy1
+PharmacyInfo Pharmacy1
+Sell Analgin Pharmacy1
+PharmacyInfo Pharmacy1
+AddMedicine Degan 8.70
+Order Analgin Pharmacy1
+Order Paracetamol Pharmacy1
+PharmacyInfo Pharmacy1
+GetMedicineWithHighestPrice Pharmacy1
+CalculateTotalPrice Pharmacy1
+SellAllMedicines Pharmacy1
+CalculateTotalPrice Pharmacy1
+PharmacyInfo Pharmacy1
+RenamePharmacy Pharmacy1 Pharmacy2
+Order Benalgin Pharmacy2
+Order NeoAngin Pharmacy2
+AddMedicine Mukusolvan -1000
+CreatePharmacy M
+End
+output=Medicine: Analgin with price 3.70
+Pharmacy Pharmacy1 has 0 medicines and they are:
+N/A
+Could not order medicine
+Pharmacy Pharmacy1 has 0 medicines and they are:
+N/A
+Did not sell medicine Analgin
+Pharmacy Pharmacy1 has 0 medicines and they are:
+N/A
+Could not order medicine
+Pharmacy Pharmacy1 has 1 medicines and they are:
+Medicine: Analgin with price 3.70
+Medicine: Analgin with price 3.70
+3.7
+0
+Pharmacy Pharmacy1 has 0 medicines and they are:
+N/A
+Could not order medicine
+Could not order medicine
+Invalid price
+Invalid name
+
+Case=Case 01
+Fail message= Fail_case_01
+grade reduction = 5
+input=AddMedicine Analgin 4.50
+AddMedicine Benalgin 3.50
+MedicineInfo Analgin
+MedicineInfo Benalgin
+End
+output=Medicine: Analgin with price 4.50
+Medicine: Benalgin with price 3.50
+
+Case=Case 02
+Fail message= Fail_case_02
+grade reduction = 5
+input=AddMedicine Paracetamol 677.123113
+AddMedicine Paracetamol2 101202100
+MedicineInfo Paracetamol
+MedicineInfo Paracetamol2
+End
+output=Medicine: Paracetamol with price 677.12
+Medicine: Paracetamol2 with price 101202100.00
+
+Case=Case 03
+Fail message= Fail_case_03
+grade reduction = 5
+input=AddMedicine Analgin 677.123113
+AddMedicine Benalgin 101202100
+MedicineInfo Analgin
+MedicineInfo Benalgin
+AddMedicine Paracetamol 7.123113
+MedicineInfo Paracetamol
+End
+output=Medicine: Analgin with price 677.12
+Medicine: Benalgin with price 101202100.00
+Medicine: Paracetamol with price 7.12
+
+Case=Case 04
+Fail message= Fail_case_04
+grade reduction = 5
+input=CreatePharmacy Pharmacy1
+CreatePharmacy Pharmacy2
+CreatePharmacy Pharmacy3
+PharmacyInfo Pharmacy1
+PharmacyInfo Pharmacy2
+PharmacyInfo Pharmacy3
+End
+output=Pharmacy Pharmacy1 has 0 medicines and they are:
+N/A
+Pharmacy Pharmacy2 has 0 medicines and they are:
+N/A
+Pharmacy Pharmacy3 has 0 medicines and they are:
+N/A
+
+Case=Case 05
+Fail message= Fail_case_05
+grade reduction = 5
+input=CreatePharmacy Pharmacy
+CreatePharmacy Pharmacy2
+CreatePharmacy Pharmacy3
+PharmacyInfo Pharmacy
+End
+output=Pharmacy Pharmacy has 0 medicines and they are:
+N/A
+
+Case=Case 06
+Fail message= Fail_case_06
+grade reduction = 5
+input=CreatePharmacy Pharmacy
+CreatePharmacy Pharmacy2
+CreatePharmacy Pharmacy3
+PharmacyInfo Pharmacy
+PharmacyInfo Pharmacy2
+End
+output=Pharmacy Pharmacy has 0 medicines and they are:
+N/A
+Pharmacy Pharmacy2 has 0 medicines and they are:
+N/A
+
+Case=Case 07
+Fail message= Fail_case_07
+grade reduction = 5
+input=AddMedicine Analgin 6.5045435435
+AddMedicine Paracetamol 7.5075345345
+MedicineInfo Analgin
+MedicineInfo Paracetamol
+CreatePharmacy Pharmacy1
+CreatePharmacy Pharmacy2
+Order Analgin Pharmacy1
+Order Paracetamol Pharmacy1
+AddMedicine Benalgin 1000
+Order Benalgin Pharmacy1
+PharmacyInfo Pharmacy1
+End
+output=Medicine: Analgin with price 6.50
+Medicine: Paracetamol with price 7.51
+Pharmacy Pharmacy1 has 3 medicines and they are:
+Medicine: Analgin with price 6.50
+Medicine: Paracetamol with price 7.51
+Medicine: Benalgin with price 1000.00
+
+Case=Case 08
+Fail message= Fail_case_08
+grade reduction = 5
+input=AddMedicine Analgin 3.50
+AddMedicine Benalgin 5.50
+MedicineInfo Analgin
+CreatePharmacy Pharmacy1
+CreatePharmacy Pharmacy2
+Order Analgin Pharmacy1
+AddMedicine Paracetamol 6.6666666
+Order Paracetamol Pharmacy1
+PharmacyInfo Pharmacy1
+Sell Analgin Pharmacy1
+PharmacyInfo Pharmacy1
+PharmacyInfo Pharmacy2
+End
+output=Medicine: Analgin with price 3.50
+Pharmacy Pharmacy1 has 2 medicines and they are:
+Medicine: Analgin with price 3.50
+Medicine: Paracetamol with price 6.67
+Sold medicine Analgin
+Pharmacy Pharmacy1 has 1 medicines and they are:
+Medicine: Paracetamol with price 6.67
+Pharmacy Pharmacy2 has 0 medicines and they are:
+N/A
+
+Case=Case 09
+Fail message= Fail_case_09
+grade reduction = 5
+input=AddMedicine Analgin 1.456456
+AddMedicine Benalgin 6.1234
+MedicineInfo Analgin
+MedicineInfo Benalgin
+CreatePharmacy Pharmacy1
+CreatePharmacy Pharmacy2
+Order Analgin Pharmacy1
+AddMedicine Paracetamol 2.34353
+PharmacyInfo Pharmacy1
+Order Benalgin Pharmacy1
+CompanyInfo Pharmacy1
+CalculateTotalPrice Pharmacy1
+End
+output=Medicine: Analgin with price 1.46
+Medicine: Benalgin with price 6.12
+Pharmacy Pharmacy1 has 1 medicines and they are:
+Medicine: Analgin with price 1.46
+Invalid command!
+7.579856
+
+Case=Case 10
+Fail message= Fail_case_10
+grade reduction = 5
+input=AddMedicine Analgin 4.5656565
+AddMedicine Benalgin 7.5656565
+MedicineInfo Analgin
+CreatePharmacy Pharmacy
+CreatePharmacy Pharmacy2
+PharmacyInfo Pharmacy
+RenamePharmacy Pharmacy Mareshki
+PharmacyInfo Pharmacy
+PharmacyInfo Mareshki
+End
+output=Medicine: Analgin with price 4.57
+Pharmacy Pharmacy has 0 medicines and they are:
+N/A
+Could not get PharmacyInfo
+Pharmacy Mareshki has 0 medicines and they are:
+N/A
+
+Case=Case 11
+Fail message= Fail_case_11
+grade reduction = 5
+input=AddMedicine Analgin 4.5656565
+AddMedicine Benalgin 7.5656565
+MedicineInfo Analgin
+CreatePharmacy Pharmacy
+CreatePharmacy Pharmacy2
+Order Analgin Pharmacy
+Order Benalgin Pharmacy2
+PharmacyInfo Pharmacy
+PharmacyInfo Pharmacy2
+SellAllMedicines Pharmacy
+PharmacyInfo Pharmacy
+SellAllMedicines Pharmacy2
+PharmacyInfo Pharmacy
+End
+output=Medicine: Analgin with price 4.57
+Pharmacy Pharmacy has 1 medicines and they are:
+Medicine: Analgin with price 4.57
+Pharmacy Pharmacy2 has 1 medicines and they are:
+Medicine: Benalgin with price 7.57
+Pharmacy Pharmacy has 0 medicines and they are:
+N/A
+Pharmacy Pharmacy has 0 medicines and they are:
+N/A
+
+Case=Case 12
+Fail message= Fail_case_12
+grade reduction = 5
+input=AddMedicine Analgin 4.5656565
+AddMedicine Benalgin 7.5656565
+MedicineInfo Analgin
+MedicineInfo Benalgin
+CreatePharmacy Pharmacy
+CreatePharmacy Pharmacy2
+Order Analgin Pharmacy
+AddMedicine Paracetamol 1.563845
+PharmacyInfo Pharmacy
+Sell Analgin Pharmacy
+PharmacyInfo Pharmacy
+Order Analgin Pharmacy
+RenamePharmacy Pharmacy Pharmacy1234
+PharmacyInfo Pharmacy
+PharmacyInfo Pharmacy1234
+Sell Analgin Pharmacy1234
+PharmacyInfo Pharmacy1234
+End
+output=Medicine: Analgin with price 4.57
+Medicine: Benalgin with price 7.57
+Pharmacy Pharmacy has 1 medicines and they are:
+Medicine: Analgin with price 4.57
+Sold medicine Analgin
+Pharmacy Pharmacy has 0 medicines and they are:
+N/A
+Could not get PharmacyInfo
+Pharmacy Pharmacy1234 has 1 medicines and they are:
+Medicine: Analgin with price 4.57
+Sold medicine Analgin
+Pharmacy Pharmacy1234 has 0 medicines and they are:
+N/A
+
+Case=Case 13
+Fail message= Fail_case_13
+grade reduction = 5
+input=AddMedicine Analgin 4.5656565
+AddMedicine Benalgin 7.5656565
+MedicineInfo Analgin
+MedicineInfo Benalgin
+CreatePharmacy Pharmacy
+CreatePharmacy Pharmacy2
+Order Analgin Pharmacy
+AddMedicine Paracetamol 1.563845
+PharmacyInfo Pharmacy
+Order Paracetamol Pharmacy
+CalculateTotalPrice Pharmacy
+SellAllMedicines Pharmacy
+CalculateTotalPrice Pharmacy
+PharmacyInfo Pharmacy
+End
+output=Medicine: Analgin with price 4.57
+Medicine: Benalgin with price 7.57
+Pharmacy Pharmacy has 1 medicines and they are:
+Medicine: Analgin with price 4.57
+6.1295015
+0
+Pharmacy Pharmacy has 0 medicines and they are:
+N/A
+
+Case=Case 14
+Fail message= Fail_case_14
+grade reduction = 5
+input=AddMedicine Analgin 4.5656565
+AddMedicine Benalgin 7.5656565
+MedicineInfo Analgin
+MedicineInfo Benalgin
+CreatePharmacy Pharmacy
+CreatePharmacy Pharmacy2
+Order Analgin Pharmacy
+AddMedicine Paracetamol 1.563845
+PharmacyInfo Pharmacy
+Order Paracetamol Pharmacy
+CalculateTotalPrice Pharmacy
+SellAllMedicines Pharmacy
+CalculateTotalPrice Pharmacy
+PharmacyInfo Pharmacy
+Order Paracetamol Pharmacy
+Order Analgin Pharmacy
+RenamePharmacy Pharmacy Pharmacy1
+CompanyInfo Pharmacy1
+CalculateTotalPrice Pharmacy1
+Sell Analgin Pharmacy
+CalculateTotalPrice Pharmacy1
+PharmacyInfo Pharmacy1
+End
+output=Medicine: Analgin with price 4.57
+Medicine: Benalgin with price 7.57
+Pharmacy Pharmacy has 1 medicines and they are:
+Medicine: Analgin with price 4.57
+6.1295015
+0
+Pharmacy Pharmacy has 0 medicines and they are:
+N/A
+Invalid command!
+6.1295015
+Could not sell medicine
+6.1295015
+Pharmacy Pharmacy1 has 2 medicines and they are:
+Medicine: Paracetamol with price 1.56
+Medicine: Analgin with price 4.57
+
+Case=Case 15
+Fail message= Fail_case_15
+grade reduction = 5
+input=AddMedicine Analgin 5.60
+AddMedicine Benalgin 4.50
+MedicineInfo Analgin
+CreatePharmacy Pharmacy
+CreatePharmacy Pharmacy2
+Order Analgin Pharmacy
+AddMedicine Paracetamol 6.90
+PharmacyInfo Pharmacy
+Order Paracetamol Pharmacy
+AddMedicine Neoangin 8.80
+GetMedicineWithHighestPrice Pharmacy
+Order Neoangin Pharmacy
+GetMedicineWithHighestPrice Pharmacy
+End
+output=Medicine: Analgin with price 5.60
+Pharmacy Pharmacy has 1 medicines and they are:
+Medicine: Analgin with price 5.60
+Medicine: Paracetamol with price 6.90
+Medicine: Neoangin with price 8.80
+
+Case=Case 16
+Fail message= Fail_case_16
+grade reduction = 5
+input=AddMedicine Analgin 5.60
+AddMedicine Benalgin 4.50
+MedicineInfo Analgin
+CreatePharmacy Pharmacy
+CreatePharmacy Pharmacy2
+Order Analgin Pharmacy
+Order Benalgin Pharmacy
+GetMedicineWithLowestPrice Pharmacy
+AddMedicine Paracetamol 3.90
+PharmacyInfo Pharmacy
+Order Paracetamol Pharmacy
+AddMedicine Neoangin 2.80
+GetMedicineWithLowestPrice Pharmacy
+Order Neoangin Pharmacy
+GetMedicineWithLowestPrice Pharmacy
+End
+output=Medicine: Analgin with price 5.60
+Medicine: Benalgin with price 4.50
+Pharmacy Pharmacy has 2 medicines and they are:
+Medicine: Analgin with price 5.60
+Medicine: Benalgin with price 4.50
+Medicine: Paracetamol with price 3.90
+Medicine: Neoangin with price 2.80
+
+Case=Case 17
+Fail message= Fail_case_17
+grade reduction = 5
+input=AddMedicine Analgin 5.60
+AddMedicine Benalgin 4.50
+MedicineInfo Analgin
+CreatePharmacy Pharmacy
+CreatePharmacy Pharmacy2
+Order Analgin Pharmacy
+Order Benalgin Pharmacy
+GetMedicineWithLowestPrice Pharmacy
+GetMedicineWithHighestPrice Pharmacy
+AddMedicine Paracetamol 3.90
+PharmacyInfo Pharmacy
+Order Paracetamol Pharmacy
+AddMedicine Neoangin 2.80
+GetMedicineWithLowestPrice Pharmacy
+GetMedicineWithHighestPrice Pharmacy
+Order Neoangin Pharmacy
+GetMedicineWithLowestPrice Pharmacy
+GetMedicineWithHighestPrice Pharmacy
+End
+output=Medicine: Analgin with price 5.60
+Medicine: Benalgin with price 4.50
+Medicine: Analgin with price 5.60
+Pharmacy Pharmacy has 2 medicines and they are:
+Medicine: Analgin with price 5.60
+Medicine: Benalgin with price 4.50
+Medicine: Paracetamol with price 3.90
+Medicine: Analgin with price 5.60
+Medicine: Neoangin with price 2.80
+Medicine: Analgin with price 5.60
+
+Case=Case 18
+Fail message= Fail_case_18
+grade reduction = 5
+input=AddMedicine Analgin 5.60
+AddMedicine Benalgin 4.50
+MedicineInfo Analgin
+CreatePharmacy Pharmacy
+CreatePharmacy Pharmacy2
+Order Analgin Pharmacy
+Order Benalgin Pharmacy
+GetMedicineWithLowestPrice Pharmacy
+GetMedicineWithHighestPrice Pharmacy
+AddMedicine Paracetamol 3.90
+PharmacyInfo Pharmacy
+Order Paracetamol Pharmacy
+AddMedicine Neoangin 2.80
+GetMedicineWithLowestPrice Pharmacy
+GetMedicineWithHighestPrice Pharmacy
+Order Neoangin Pharmacy
+GetMedicineWithLowestPrice Pharmacy
+GetMedicineWithHighestPrice Pharmacy
+AddMedicine mukosolvan 1.20
+AddMedicine prospan 10.20
+Order mukosolvan Pharmacy
+Order prospan Pharmacy
+GetMedicineWithLowestPrice Pharmacy
+GetMedicineWithHighestPrice Pharmacy
+End
+output=Medicine: Analgin with price 5.60
+Medicine: Benalgin with price 4.50
+Medicine: Analgin with price 5.60
+Pharmacy Pharmacy has 2 medicines and they are:
+Medicine: Analgin with price 5.60
+Medicine: Benalgin with price 4.50
+Medicine: Paracetamol with price 3.90
+Medicine: Analgin with price 5.60
+Medicine: Neoangin with price 2.80
+Medicine: Analgin with price 5.60
+Medicine: mukosolvan with price 1.20
+Medicine: prospan with price 10.20
+
+
+Case=Case 19
+Fail message= Fail_case_19
+grade reduction = 5
+input=AddMedicine Analgin -10
+AddMedicine Benalgin -5
+MedicineInfo Analgin
+MedicineInfo Benalgin
+End
+output=Invalid price
+Invalid price
+Could not get MedicineInfo
+Could not get MedicineInfo
+
+Case=Case 20
+Fail message= Fail_case_20
+grade reduction = 5
+input=CreatePharmacy a
+CreatePharmacy b
+CreatePharmacy c
+CreatePharmacy ad
+PharmacyInfo b
+PharmacyInfo a
+PharmacyInfo ad
+End
+output=Invalid name
+Invalid name
+Invalid name
+Invalid name
+Could not get PharmacyInfo
+Could not get PharmacyInfo
+Could not get PharmacyInfo

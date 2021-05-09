@@ -1,0 +1,171 @@
+Ex4
+using System;
+
+namespace StaticMembers
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string[] info = Console.ReadLine().Split();
+
+            while (!info[0].Equals("Close"))
+            {
+                string result = "";
+                switch (info[0])
+                {
+                    case "Add":
+                        Product product = 
+                            new Product(info[1], info[2], double.Parse(info[3]), double.Parse(info[4]));
+                        StoreController.Add(product);
+                        break;
+                    case "Sell":
+                        result = StoreController.Sell(info[1], double.Parse(info[2]));
+                        break;
+                    case "Update":
+                        result = StoreController.Update(info[1], double.Parse(info[2]));
+                        break;
+                    case "PrintA":
+                        StoreController.PrintA();
+                        break;
+                    case "PrintU":
+                        StoreController.PrintU();
+                        break;
+                    case "PrintD":
+                        StoreController.PrintD();
+                        break;
+                    case "Calculate":
+                        double totalPrice = StoreController.Calculate();
+                        Console.WriteLine($"{totalPrice:f2}");
+                        break;
+
+                }
+
+                info = Console.ReadLine().Split();
+            }
+        }
+    }
+}
+
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace StaticMembers
+{
+    public class Product
+    {
+        private string name;
+        private string barcode;
+        private double price;
+        private double quantity;
+
+
+        public Product(string barcode, string name, double price, double quantity)
+        {
+            this.Barcode = barcode;
+            this.Name = name;
+            this.Price = price;
+            this.Quantity = quantity;
+        }
+
+
+        public string Name
+        {
+            get { return name; }
+            set { name = value; }
+        }
+        public string Barcode
+        {
+            get { return barcode; }
+            set { barcode = value; }
+        }
+        public double Price
+        {
+            get { return price; }
+            set { price = value; }
+        }
+
+        public double Quantity
+        {
+            get { return quantity; }
+            set { quantity = value; }
+        }
+
+        public override string ToString()
+        {
+            return $"{this.Name} ({this.Barcode})";
+        }
+    }
+}
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace StaticMembers
+{
+    public static class StoreController
+    {
+        private static List<Product> productsList;
+
+        static StoreController()
+        {
+            productsList = new List<Product>();
+        }
+
+        public static void Add(Product product)
+        {
+            productsList.Add(product);
+        }
+        public static string Sell(string barcode, double quantity)
+        {
+            Product product = GetProductByBarcode(barcode);
+
+            if (product == null || product.Quantity < quantity)
+            {
+                return "Not enough quantity";
+            }
+
+            product.Quantity -= quantity;
+            return $"Product: {product.Barcode} selled";
+        }
+        public static string Update(string barcode, double quantity)
+        {
+            Product product = GetProductByBarcode(barcode);
+            if(product == null)
+            {
+                return "Please add your product first!";
+            }
+            product.Quantity += quantity;
+            return $"Product: {product.Barcode} was added";
+        }
+        public static void PrintA()
+        {
+            Console.WriteLine(string.Join(Environment.NewLine, productsList.OrderBy(n => n.Name)));
+        }
+        public static void PrintU()
+        {
+            foreach ( var product in productsList.Where(p => p.Quantity <= 0).OrderBy(n => n.Name))
+            {
+                Console.WriteLine(product);
+            }
+        }
+        public static void PrintD()
+        {
+            foreach (var product in productsList.OrderByDescending(p => p.Quantity))
+            {
+                Console.WriteLine(product);
+            }
+        }
+        public static double Calculate()
+        {
+            return productsList.Where(p => p.Quantity > 0).Sum(p => (p.Price * p.Quantity));
+        }
+        private static Product GetProductByBarcode(string barcode)
+        {
+            return productsList.Where(b => b.Barcode.Equals(barcode)).FirstOrDefault();
+        }
+    }
+}
