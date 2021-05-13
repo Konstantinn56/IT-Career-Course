@@ -186,7 +186,7 @@
 
         private static void GetTotalProductSales(string[] args)
         {
-            Console.WriteLine(VendingMachine.OrdersCount());
+            Console.WriteLine(Product.OrdersCount());
         }
 
         //Bonus

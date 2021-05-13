@@ -140,6 +140,12 @@ namespace Exam
             }
         }
 
-        
+        public string GetInfoAboutAllProductsByType()
+        {
+            foreach (var p in products.OrderByDescending(n => n.Name))
+            {
+
+            }
+        }
     }
 }
