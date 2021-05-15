@@ -1,0 +1,13 @@
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\06-Практически-изпит 12-13-14.04\08. Предишни изпити\Exams\Exx\bin\Debug\netcoreapp3.1\Exx.exe
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\06-Практически-изпит 12-13-14.04\08. Предишни изпити\Exams\Exx\bin\Debug\netcoreapp3.1\Exx.deps.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\06-Практически-изпит 12-13-14.04\08. Предишни изпити\Exams\Exx\bin\Debug\netcoreapp3.1\Exx.runtimeconfig.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\06-Практически-изпит 12-13-14.04\08. Предишни изпити\Exams\Exx\bin\Debug\netcoreapp3.1\Exx.runtimeconfig.dev.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\06-Практически-изпит 12-13-14.04\08. Предишни изпити\Exams\Exx\bin\Debug\netcoreapp3.1\Exx.dll
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\06-Практически-изпит 12-13-14.04\08. Предишни изпити\Exams\Exx\bin\Debug\netcoreapp3.1\Exx.pdb
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\06-Практически-изпит 12-13-14.04\08. Предишни изпити\Exams\Exx\obj\Debug\netcoreapp3.1\Exx.csprojAssemblyReference.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\06-Практически-изпит 12-13-14.04\08. Предишни изпити\Exams\Exx\obj\Debug\netcoreapp3.1\Exx.AssemblyInfoInputs.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\06-Практически-изпит 12-13-14.04\08. Предишни изпити\Exams\Exx\obj\Debug\netcoreapp3.1\Exx.AssemblyInfo.cs
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\06-Практически-изпит 12-13-14.04\08. Предишни изпити\Exams\Exx\obj\Debug\netcoreapp3.1\Exx.csproj.CoreCompileInputs.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\06-Практически-изпит 12-13-14.04\08. Предишни изпити\Exams\Exx\obj\Debug\netcoreapp3.1\Exx.dll
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\06-Практически-изпит 12-13-14.04\08. Предишни изпити\Exams\Exx\obj\Debug\netcoreapp3.1\Exx.pdb
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\06-Практически-изпит 12-13-14.04\08. Предишни изпити\Exams\Exx\obj\Debug\netcoreapp3.1\Exx.genruntimeconfig.cache

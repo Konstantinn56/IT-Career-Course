@@ -1,0 +1,13 @@
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\06-Практически-изпит 12-13-14.04\08. Предишни изпити\Exams\CarStore\bin\Debug\netcoreapp3.1\CarStore.exe
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\06-Практически-изпит 12-13-14.04\08. Предишни изпити\Exams\CarStore\bin\Debug\netcoreapp3.1\CarStore.deps.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\06-Практически-изпит 12-13-14.04\08. Предишни изпити\Exams\CarStore\bin\Debug\netcoreapp3.1\CarStore.runtimeconfig.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\06-Практически-изпит 12-13-14.04\08. Предишни изпити\Exams\CarStore\bin\Debug\netcoreapp3.1\CarStore.runtimeconfig.dev.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\06-Практически-изпит 12-13-14.04\08. Предишни изпити\Exams\CarStore\bin\Debug\netcoreapp3.1\CarStore.dll
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\06-Практически-изпит 12-13-14.04\08. Предишни изпити\Exams\CarStore\bin\Debug\netcoreapp3.1\CarStore.pdb
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\06-Практически-изпит 12-13-14.04\08. Предишни изпити\Exams\CarStore\obj\Debug\netcoreapp3.1\CarStore.csprojAssemblyReference.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\06-Практически-изпит 12-13-14.04\08. Предишни изпити\Exams\CarStore\obj\Debug\netcoreapp3.1\CarStore.AssemblyInfoInputs.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\06-Практически-изпит 12-13-14.04\08. Предишни изпити\Exams\CarStore\obj\Debug\netcoreapp3.1\CarStore.AssemblyInfo.cs
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\06-Практически-изпит 12-13-14.04\08. Предишни изпити\Exams\CarStore\obj\Debug\netcoreapp3.1\CarStore.csproj.CoreCompileInputs.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\06-Практически-изпит 12-13-14.04\08. Предишни изпити\Exams\CarStore\obj\Debug\netcoreapp3.1\CarStore.dll
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\06-Практически-изпит 12-13-14.04\08. Предишни изпити\Exams\CarStore\obj\Debug\netcoreapp3.1\CarStore.pdb
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 3\06-Практически-изпит 12-13-14.04\08. Предишни изпити\Exams\CarStore\obj\Debug\netcoreapp3.1\CarStore.genruntimeconfig.cache
