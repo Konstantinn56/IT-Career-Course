@@ -9,7 +9,7 @@ namespace _02._6
     {
         private ListNode<T> head;
         private ListNode<T> tail;
-
+        public int Count { get; set; }
         public DoublyLinkedList()
         {
             this.Head = null;
@@ -27,7 +27,7 @@ namespace _02._6
             get { return tail; }
             set { tail = value; }
         }
-        public int Count { get; set; }
+        
 
         ///////////////////////////////////////////////////////////////////////////
 
