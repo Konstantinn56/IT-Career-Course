@@ -1,0 +1,12 @@
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\03-Алгоритми-върху-линейни-структури-от-данни\03\03.4\bin\Debug\netcoreapp3.1\03.4.exe
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\03-Алгоритми-върху-линейни-структури-от-данни\03\03.4\bin\Debug\netcoreapp3.1\03.4.deps.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\03-Алгоритми-върху-линейни-структури-от-данни\03\03.4\bin\Debug\netcoreapp3.1\03.4.runtimeconfig.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\03-Алгоритми-върху-линейни-структури-от-данни\03\03.4\bin\Debug\netcoreapp3.1\03.4.runtimeconfig.dev.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\03-Алгоритми-върху-линейни-структури-от-данни\03\03.4\bin\Debug\netcoreapp3.1\03.4.dll
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\03-Алгоритми-върху-линейни-структури-от-данни\03\03.4\bin\Debug\netcoreapp3.1\03.4.pdb
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\03-Алгоритми-върху-линейни-структури-от-данни\03\03.4\obj\Debug\netcoreapp3.1\03.4.AssemblyInfoInputs.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\03-Алгоритми-върху-линейни-структури-от-данни\03\03.4\obj\Debug\netcoreapp3.1\03.4.AssemblyInfo.cs
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\03-Алгоритми-върху-линейни-структури-от-данни\03\03.4\obj\Debug\netcoreapp3.1\03.4.csproj.CoreCompileInputs.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\03-Алгоритми-върху-линейни-структури-от-данни\03\03.4\obj\Debug\netcoreapp3.1\03.4.dll
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\03-Алгоритми-върху-линейни-структури-от-данни\03\03.4\obj\Debug\netcoreapp3.1\03.4.pdb
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\03-Алгоритми-върху-линейни-структури-от-данни\03\03.4\obj\Debug\netcoreapp3.1\03.4.genruntimeconfig.cache

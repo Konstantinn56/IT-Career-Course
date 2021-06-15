@@ -48,15 +48,15 @@ namespace _02._6
             }
             this.Count++;
         }
-        //public void ForEach(Action<T> action)
-        //{
-        //    ListNode<T> currentNode = this.Head;
-        //    while (currentNode != null)
-        //    {
-        //        action(currentNode.Item);
-        //        currentNode = currentNode.Next;
-        //    }
-        //}
+        public void ForEach(Action<T> action)
+        {
+            ListNode<T> current = this.Head;
+            while (current != null)
+            {
+                action(current.Item);
+                current = current.Next;
+            }
+        }
         public void AddLast(T element)
         {
             ListNode<T> nodeToAdd = new ListNode<T>(element);
@@ -74,12 +74,14 @@ namespace _02._6
         }
         public T RemoveFirst()
         {
-            T elementToRemove = this.Head.Item;
-            if(this.Head == null && this.Tail == null)//empty list
+            if (this.Head == null && this.Tail == null)//empty list
             {
                 throw new ArgumentException();
             }
-            else if (this.Head == this.Tail)//one element
+
+            T elementToRemove = this.Head.Item;
+            
+            if (this.Head == this.Tail && this.Head != null)//one element
             {
                 this.Head = null;
                 this.Tail = null;

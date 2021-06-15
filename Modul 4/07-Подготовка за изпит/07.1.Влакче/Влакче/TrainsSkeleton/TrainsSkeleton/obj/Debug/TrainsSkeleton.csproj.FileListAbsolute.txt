@@ -1,0 +1,6 @@
+C:\Users\pc\Desktop\Trains\TrainsSkeleton\TrainsSkeleton\bin\Debug\TrainsSkeleton.exe.config
+C:\Users\pc\Desktop\Trains\TrainsSkeleton\TrainsSkeleton\obj\Debug\TrainsSkeleton.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Trains\TrainsSkeleton\TrainsSkeleton\bin\Debug\TrainsSkeleton.exe
+C:\Users\pc\Desktop\Trains\TrainsSkeleton\TrainsSkeleton\bin\Debug\TrainsSkeleton.pdb
+C:\Users\pc\Desktop\Trains\TrainsSkeleton\TrainsSkeleton\obj\Debug\TrainsSkeleton.exe
+C:\Users\pc\Desktop\Trains\TrainsSkeleton\TrainsSkeleton\obj\Debug\TrainsSkeleton.pdb

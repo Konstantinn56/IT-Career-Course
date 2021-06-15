@@ -1,0 +1,316 @@
+Cinema
+Avaliable from: Sunday, 12 July 2020, 10:00
+Due date: Sunday, 12 July 2020, 16:00
+Requested files: Program.cs, Movie.cs, Cinema.cs (Download)
+Type of work: Individual work
+Настройки на оценките: Максимална оценка: 100
+Run: Не. Evaluate: Да. Evaluate just on submission: Да
+Automatic grade: Да.
+Кино
+Общ преглед
+Във вашата фирма постъпва проект за създаване на приложение, обслужващо кино.
+
+Вашият софтуер трябва да описва кино (Cinema) и филм (Movie).
+
+Tрябва да реализирате функционалност, която да позволява някои основни команди с филмите в киното. Поредицата от команди приключва с „END”. За ваше удобство ще получите готов Program.cs файл, и ще трябва да реализирате само необходимите класове Cinema.cs и Movie.cs
+
+Подзадача 1: 30 точки
+Movie
+Всички филми имат заглавие и списък с рейтинг:
+
+title – текст
+
+rating – рейтинг (дробно число)
+
+ 
+
+Movie.cs
+
+private string title;
+
+private double rating;
+
+ 
+
+public Movie(string title, double rating)
+
+{
+
+  //TODO: Добавете вашия код тук …                    
+
+}
+
+ 
+
+public string Title
+
+{
+
+  //TODO: Добавете вашия код тук …                  
+
+}
+
+ 
+
+public double Rating
+
+{
+
+  //TODO: Добавете вашия код тук …                     
+
+}
+
+ 
+
+public override string ToString()
+
+{
+
+  //TODO: Добавете вашия код тук …                  
+
+}
+
+ 
+Cinema
+Всяко кино има име и списък с филми:
+
+name – текст
+
+movies – списък от филми
+
+ 
+
+Cinema.cs
+
+private string name;
+
+private List<Movie> movies;
+
+ 
+
+public Cinema (string name)
+
+{
+
+  //TODO: Добавете вашия код тук …                          
+
+}
+
+ 
+
+public string Name
+
+{
+
+  //TODO: Добавете вашия код тук …                            
+
+}
+
+ 
+
+public List<Movie> Movies
+
+{
+
+  //TODO: Добавете вашия код тук …                  
+
+}
+
+ 
+
+public void AddMovie(string title, double rating)
+
+{
+
+  //TODO: Добавете вашия код тук …                  
+
+}
+
+ 
+
+public double AverageRating()
+
+{
+
+  //TODO: Добавете вашия код тук …                             
+
+}
+
+ 
+
+public List<string> RemoveMoviesByRating(double rating)
+
+{
+
+  //TODO: Добавете вашия код тук …                            
+
+}
+
+ 
+
+public List<Movie> SortByTitle()
+
+{
+
+  //TODO: Добавете вашия код тук …                            
+
+}
+
+ 
+
+public List<Movie> SortByRating()
+
+{
+
+  //TODO: Добавете вашия код тук …                            
+
+}
+
+ 
+
+public string[] ProvideInformationAboutAllMovies()
+
+{
+
+  //TODO: Добавете вашия код тук …                            
+
+}
+
+ 
+
+public bool CheckMovieIsInCinema(string title)
+
+{
+
+  //TODO: Добавете вашия код тук …                  
+
+}
+
+ 
+Командa за добавяне на филм
+Вашето приложение трябва да обслужва следната команда за добавяне на филм:
+
+AddMovie <заглавие рейтинг> - тази команда има за цел да добави филм с неговото заглавие и рейтинг.
+Команда за извеждане на информация
+Вашето приложение във всеки един момент може да получи заявка да отпечата информация за всички филми. Командата за това е следната:
+
+PrintCinemaInfo - отпечатва информация за всички филми в структурата във формат:
+Movie {title} is with {rating} rating.
+За успешна реализация трябва да реализирате ваша версия на ToString() метода за класа Movie.
+Рейтингът трябва да бъде форматирана до първия знак след десетичната запетая.
+SortByTitle - Трябва да сортира филмите от списъка по име във възходящ (нарастващ) ред. След което трябва да бъде върнат сортираният списък.
+SortByRating - Трябва да сортира филмите в списъка по рейтинг в низходящ (намаляващ) ред.  След което трябва да бъде върнат сортираният списък.
+CheckMovie<title> - Трябва да бъде намерен филм, на който заглавието да съвпада с подаденото. При успешно намиране трябва да върнете булева стойност true, а в обратен случай false.
+Подзадача 2: 30 точки
+ 
+
+Подзадача 3: 20 точки
+GetBestMoviesByRating <рейтинг> - Трябва да бъдат намерени всички филми от списъка, на които рейтингът им е по-висок от дадения в командата. Да се върне списък със загалвията на намерените филми.
+AverageRating - Трябва да бъде намерен средноаритметичният рейтинг на филмите в списъка.
+Програмата ще получава множество редове с информация. Всеки ред представлява команда. Самият вход се обработва изцяло от примерния Program.cs.
+Всички команди приключват с въвеждането на END
+Подзадача 4: 20 точки
+Вход
+Изход
+За някои от командите не е нужно да извеждате нищо. За други е необходимо форматиране на изход – напр. Movie.ToString(), Movie.Title()
+
+Ограничения
+Всички реални числа ще бъдат в диапазона –10000. до +10000.
+Имената няма да съдържат интервал
+Примери
+Вход
+
+Изход
+
+AddMovie, The Matrix, 8.6
+
+AddMovie, Parasite, 8.5
+
+AddMovie, Green Book, 8.2
+
+PrintCinemaInfo
+
+END
+
+Added movie: The Matrix -> 8.6.
+
+Added movie: Parasite -> 8.5.
+
+Added movie: Green Book -> 8.2.
+
+Movie The Matrix is with 8.6 rating.
+
+Movie Parasite is with 8.5 rating.
+
+Movie Green Book is with 8.2 rating.
+
+AddMovie, Passengers, 7.0
+
+AddMovie, A star is born, 7.7
+
+AddMovie, Troy, 7.2
+
+PrintCinemaInfo
+
+SortByTitle
+
+PrintCinemaInfo
+
+SortByRating
+
+PrintCinemaInfo
+
+CheckMovie, Troy
+
+CheckMovie, IT
+
+AverageRating
+
+GetBestMoviesByRating, 7.1
+
+END
+
+Added movie: Passengers -> 7.
+
+Added movie: A star is born -> 7.7.
+
+Added movie: Troy -> 7.2.
+
+Movie Passengers is with 7.0 rating.
+
+Movie A star is born is with 7.7 rating.
+
+Movie Troy is with 7.2 rating.
+
+First movie is: A star is born
+
+Movie A star is born is with 7.7 rating.
+
+Movie Passengers is with 7.0 rating.
+
+Movie Troy is with 7.2 rating.
+
+The worst movie is with rating: 7
+
+Movie A star is born is with 7.7 rating.
+
+Movie Troy is with 7.2 rating.
+
+Movie Passengers is with 7.0 rating.
+
+Movie Troy is available.
+
+Movie IT is not available.
+
+Average rating of movies: 7.3
+
+Most rated movies are: A star is born, Troy
+
+Точки
+Разбивката по подзадачи е следната:
+
+30 точки
+30 точки
+20 точки
+20 точки 
+Общ брой точки: 100

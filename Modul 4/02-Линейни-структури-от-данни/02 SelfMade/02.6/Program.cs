@@ -19,6 +19,13 @@ namespace _02._6
             {
                 Console.WriteLine(item);
             }
+
+             
+            
+        }
+        public static void Print(int item)
+        {
+            Console.WriteLine(item);
         }
     }
 }
