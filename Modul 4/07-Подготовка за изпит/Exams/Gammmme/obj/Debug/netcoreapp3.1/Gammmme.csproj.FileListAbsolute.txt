@@ -1,0 +1,13 @@
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Gammmme\bin\Debug\netcoreapp3.1\Gammmme.exe
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Gammmme\bin\Debug\netcoreapp3.1\Gammmme.deps.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Gammmme\bin\Debug\netcoreapp3.1\Gammmme.runtimeconfig.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Gammmme\bin\Debug\netcoreapp3.1\Gammmme.runtimeconfig.dev.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Gammmme\bin\Debug\netcoreapp3.1\Gammmme.dll
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Gammmme\bin\Debug\netcoreapp3.1\Gammmme.pdb
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Gammmme\obj\Debug\netcoreapp3.1\Gammmme.csprojAssemblyReference.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Gammmme\obj\Debug\netcoreapp3.1\Gammmme.AssemblyInfoInputs.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Gammmme\obj\Debug\netcoreapp3.1\Gammmme.AssemblyInfo.cs
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Gammmme\obj\Debug\netcoreapp3.1\Gammmme.csproj.CoreCompileInputs.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Gammmme\obj\Debug\netcoreapp3.1\Gammmme.dll
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Gammmme\obj\Debug\netcoreapp3.1\Gammmme.pdb
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Gammmme\obj\Debug\netcoreapp3.1\Gammmme.genruntimeconfig.cache

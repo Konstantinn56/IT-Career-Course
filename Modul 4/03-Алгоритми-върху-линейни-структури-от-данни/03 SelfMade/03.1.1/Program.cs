@@ -10,7 +10,7 @@ namespace _03._1._1
             int[] nums = Console.ReadLine().Split().Select(int.Parse).ToArray();
             int num = int.Parse(Console.ReadLine());
 
-            InsertMethod(nums, num);
+            SumAndAverage(nums);
             
         }
         public static void NumberCheck(int[] nums,int numToCheck)
@@ -22,7 +22,7 @@ namespace _03._1._1
                     Console.WriteLine($"{nums[i]} Exists in the List");
                     break;
                 }
-                if (i == nums.Length - 1)
+                else if (i == nums.Length - 1)
                 {
                     Console.WriteLine($"{numToCheck} Not exists in the List");
                 }
@@ -31,51 +31,44 @@ namespace _03._1._1
         public static void InsertMethod(int[] nums, int numToInsert)
         {
             int[] oldNums = new int[nums.Length];
+            int[] newNums = new int[nums.Length + 1];
             for (int i = 0; i < oldNums.Length; i++)
             {
                 oldNums[i] = nums[i];
+                newNums[i] = nums[i];
             }
+            newNums[nums.Length] = numToInsert;
 
-            int[] newNums = new int[nums.Length];
-            int indexToInsert = 0;
-            for (int i = 0; i < nums.Length; i++)
+            int temp;
+            for (int j = 0; j <= newNums.Length - 2; j++)
             {
-                if (i == nums.Length -1)
+                for (int i = 0; i <= newNums.Length - 2; i++)
                 {
-                    if(nums[i] < numToInsert)
+                    if (newNums[i] > newNums[i + 1])
                     {
-                        indexToInsert = i + 2;
-                        break;
+                        temp = newNums[i + 1];
+                        newNums[i + 1] = newNums[i];
+                        newNums[i] = temp;
                     }
                 }
-                if (nums[0] >= numToInsert)
-                {
-                    indexToInsert = 0;
-                    break;
-                }
-                if (nums[i] <= numToInsert && nums[i + 1] >= numToInsert)
-                {
-                    indexToInsert = i + 1;
-                    break;
-                }
             }
 
-            for (int i = 0; i < indexToInsert; i++)
-            {
-                newNums[i] = oldNums[i];
-            }
-            newNums[indexToInsert] = numToInsert;
-            for (int i = indexToInsert + 1; i < newNums.Length; i++)
-            {
-                newNums[i] = oldNums[i - 1];
-            }
-            newNums[newNums.Length - 1] = oldNums[oldNums.Length - 1];
+            Console.WriteLine(string.Join(", ", newNums));
+            
 
-            foreach (var item in newNums)
-            {
-                Console.Write($"{item} ");
-            }
+        }
+        public static void SumAndAverage(int[] nums)
+        {
+            int sum = 0;
+            
 
+            for (int i = 0; i < nums.Length; i++)
+            {
+                sum += nums[i];
+            }
+            decimal average = (decimal)sum / nums.Length;
+
+            Console.WriteLine($"Sum={sum}; Average={average:f2}");
         }
     }
 }
