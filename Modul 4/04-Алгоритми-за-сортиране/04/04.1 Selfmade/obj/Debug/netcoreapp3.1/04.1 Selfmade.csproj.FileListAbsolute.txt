@@ -1,0 +1,13 @@
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\04-Алгоритми-за-сортиране\04\04.1 Selfmade\bin\Debug\netcoreapp3.1\04.1 Selfmade.exe
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\04-Алгоритми-за-сортиране\04\04.1 Selfmade\bin\Debug\netcoreapp3.1\04.1 Selfmade.deps.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\04-Алгоритми-за-сортиране\04\04.1 Selfmade\bin\Debug\netcoreapp3.1\04.1 Selfmade.runtimeconfig.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\04-Алгоритми-за-сортиране\04\04.1 Selfmade\bin\Debug\netcoreapp3.1\04.1 Selfmade.runtimeconfig.dev.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\04-Алгоритми-за-сортиране\04\04.1 Selfmade\bin\Debug\netcoreapp3.1\04.1 Selfmade.dll
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\04-Алгоритми-за-сортиране\04\04.1 Selfmade\bin\Debug\netcoreapp3.1\04.1 Selfmade.pdb
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\04-Алгоритми-за-сортиране\04\04.1 Selfmade\obj\Debug\netcoreapp3.1\04.1 Selfmade.csprojAssemblyReference.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\04-Алгоритми-за-сортиране\04\04.1 Selfmade\obj\Debug\netcoreapp3.1\04.1 Selfmade.AssemblyInfoInputs.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\04-Алгоритми-за-сортиране\04\04.1 Selfmade\obj\Debug\netcoreapp3.1\04.1 Selfmade.AssemblyInfo.cs
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\04-Алгоритми-за-сортиране\04\04.1 Selfmade\obj\Debug\netcoreapp3.1\04.1 Selfmade.csproj.CoreCompileInputs.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\04-Алгоритми-за-сортиране\04\04.1 Selfmade\obj\Debug\netcoreapp3.1\04.1 Selfmade.dll
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\04-Алгоритми-за-сортиране\04\04.1 Selfmade\obj\Debug\netcoreapp3.1\04.1 Selfmade.pdb
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\04-Алгоритми-за-сортиране\04\04.1 Selfmade\obj\Debug\netcoreapp3.1\04.1 Selfmade.genruntimeconfig.cache

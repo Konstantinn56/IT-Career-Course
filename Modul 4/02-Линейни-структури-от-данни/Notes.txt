@@ -2,4 +2,18 @@ LinkedList<T>
 List<T>
 ArrayList
 
+---------------------------------------------------
 Queue<int> 
+
+/////////////////////////
+
+Queue<int> que = new Queue<int>();
+            que.Enqueue(5);
+            que.Enqueue(6);
+            que.Enqueue(7);
+            que.Enqueue(8);
+            que.Enqueue(9);
+            que.Dequeue();//removes the first element
+			
+			que.Peek();
+			int[] arr = que.ToArray();

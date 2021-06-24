@@ -1,0 +1,13 @@
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Restauranttt\bin\Debug\netcoreapp3.1\Restauranttt.exe
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Restauranttt\bin\Debug\netcoreapp3.1\Restauranttt.deps.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Restauranttt\bin\Debug\netcoreapp3.1\Restauranttt.runtimeconfig.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Restauranttt\bin\Debug\netcoreapp3.1\Restauranttt.runtimeconfig.dev.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Restauranttt\bin\Debug\netcoreapp3.1\Restauranttt.dll
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Restauranttt\bin\Debug\netcoreapp3.1\Restauranttt.pdb
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Restauranttt\obj\Debug\netcoreapp3.1\Restauranttt.csprojAssemblyReference.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Restauranttt\obj\Debug\netcoreapp3.1\Restauranttt.AssemblyInfoInputs.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Restauranttt\obj\Debug\netcoreapp3.1\Restauranttt.AssemblyInfo.cs
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Restauranttt\obj\Debug\netcoreapp3.1\Restauranttt.csproj.CoreCompileInputs.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Restauranttt\obj\Debug\netcoreapp3.1\Restauranttt.dll
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Restauranttt\obj\Debug\netcoreapp3.1\Restauranttt.pdb
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Restauranttt\obj\Debug\netcoreapp3.1\Restauranttt.genruntimeconfig.cache

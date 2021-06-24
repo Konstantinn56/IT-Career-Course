@@ -39,6 +39,10 @@ namespace _04._1
         }
         public static void BubbleSort<T>(T[] array)where T : IComparable
         {
+            //            7
+            //0 1 2 3 4 5 6
+            //6 5 4 3 2 0 1
+            
             for (int a = 0; a < array.Length - 1; a++)
             {
                 for (int i = 0; i < array.Length - a - 1; i++)
@@ -69,6 +73,20 @@ namespace _04._1
             while (swapped);
            
 
+        }//bad
+        public static void InsertionSort<T>(T[] array) where T : IComparable
+        {
+            for (int i = 1; i < array.Length; i++)
+            {
+                T key = array[i];
+                int j = i - 1;
+                while (j >= 0 && key.CompareTo(array[j]) < 0)
+                {
+                    array[j + 1] = array[j];
+                    j = j - 1;
+                }
+                array[j + 1] = key;
+            }
         }
 
         private static bool Less<T>(T firstItem , T secondItem) where T : IComparable
