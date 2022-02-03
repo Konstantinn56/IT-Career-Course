@@ -1,0 +1,16 @@
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Generate8bitVectors\bin\Debug\net5.0\Generate8bitVectors.exe
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Generate8bitVectors\bin\Debug\net5.0\Generate8bitVectors.deps.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Generate8bitVectors\bin\Debug\net5.0\Generate8bitVectors.runtimeconfig.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Generate8bitVectors\bin\Debug\net5.0\Generate8bitVectors.runtimeconfig.dev.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Generate8bitVectors\bin\Debug\net5.0\Generate8bitVectors.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Generate8bitVectors\bin\Debug\net5.0\ref\Generate8bitVectors.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Generate8bitVectors\bin\Debug\net5.0\Generate8bitVectors.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Generate8bitVectors\obj\Debug\net5.0\Generate8bitVectors.csproj.AssemblyReference.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Generate8bitVectors\obj\Debug\net5.0\Generate8bitVectors.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Generate8bitVectors\obj\Debug\net5.0\Generate8bitVectors.AssemblyInfoInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Generate8bitVectors\obj\Debug\net5.0\Generate8bitVectors.AssemblyInfo.cs
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Generate8bitVectors\obj\Debug\net5.0\Generate8bitVectors.csproj.CoreCompileInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Generate8bitVectors\obj\Debug\net5.0\Generate8bitVectors.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Generate8bitVectors\obj\Debug\net5.0\ref\Generate8bitVectors.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Generate8bitVectors\obj\Debug\net5.0\Generate8bitVectors.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Generate8bitVectors\obj\Debug\net5.0\Generate8bitVectors.genruntimeconfig.cache

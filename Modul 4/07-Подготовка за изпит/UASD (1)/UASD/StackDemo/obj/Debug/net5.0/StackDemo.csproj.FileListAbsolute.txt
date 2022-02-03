@@ -1,0 +1,16 @@
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\StackDemo\bin\Debug\net5.0\StackDemo.exe
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\StackDemo\bin\Debug\net5.0\StackDemo.deps.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\StackDemo\bin\Debug\net5.0\StackDemo.runtimeconfig.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\StackDemo\bin\Debug\net5.0\StackDemo.runtimeconfig.dev.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\StackDemo\bin\Debug\net5.0\StackDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\StackDemo\bin\Debug\net5.0\ref\StackDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\StackDemo\bin\Debug\net5.0\StackDemo.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\StackDemo\obj\Debug\net5.0\StackDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\StackDemo\obj\Debug\net5.0\StackDemo.AssemblyInfoInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\StackDemo\obj\Debug\net5.0\StackDemo.AssemblyInfo.cs
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\StackDemo\obj\Debug\net5.0\StackDemo.csproj.CoreCompileInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\StackDemo\obj\Debug\net5.0\StackDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\StackDemo\obj\Debug\net5.0\ref\StackDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\StackDemo\obj\Debug\net5.0\StackDemo.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\StackDemo\obj\Debug\net5.0\StackDemo.genruntimeconfig.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\StackDemo\obj\Debug\net5.0\StackDemo.csproj.AssemblyReference.cache

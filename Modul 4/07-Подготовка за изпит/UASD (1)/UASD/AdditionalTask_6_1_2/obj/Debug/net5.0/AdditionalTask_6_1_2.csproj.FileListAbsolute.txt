@@ -1,0 +1,15 @@
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\AdditionalTask_6_1_2\bin\Debug\net5.0\AdditionalTask_6_1_2.exe
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\AdditionalTask_6_1_2\bin\Debug\net5.0\AdditionalTask_6_1_2.deps.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\AdditionalTask_6_1_2\bin\Debug\net5.0\AdditionalTask_6_1_2.runtimeconfig.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\AdditionalTask_6_1_2\bin\Debug\net5.0\AdditionalTask_6_1_2.runtimeconfig.dev.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\AdditionalTask_6_1_2\bin\Debug\net5.0\AdditionalTask_6_1_2.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\AdditionalTask_6_1_2\bin\Debug\net5.0\ref\AdditionalTask_6_1_2.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\AdditionalTask_6_1_2\bin\Debug\net5.0\AdditionalTask_6_1_2.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\AdditionalTask_6_1_2\obj\Debug\net5.0\AdditionalTask_6_1_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\AdditionalTask_6_1_2\obj\Debug\net5.0\AdditionalTask_6_1_2.AssemblyInfoInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\AdditionalTask_6_1_2\obj\Debug\net5.0\AdditionalTask_6_1_2.AssemblyInfo.cs
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\AdditionalTask_6_1_2\obj\Debug\net5.0\AdditionalTask_6_1_2.csproj.CoreCompileInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\AdditionalTask_6_1_2\obj\Debug\net5.0\AdditionalTask_6_1_2.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\AdditionalTask_6_1_2\obj\Debug\net5.0\ref\AdditionalTask_6_1_2.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\AdditionalTask_6_1_2\obj\Debug\net5.0\AdditionalTask_6_1_2.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\AdditionalTask_6_1_2\obj\Debug\net5.0\AdditionalTask_6_1_2.genruntimeconfig.cache

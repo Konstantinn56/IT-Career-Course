@@ -1,0 +1,16 @@
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\08-Комуникация-между-обекти\08\08\bin\Debug\net6.0\08.exe
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\08-Комуникация-между-обекти\08\08\bin\Debug\net6.0\08.deps.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\08-Комуникация-между-обекти\08\08\bin\Debug\net6.0\08.runtimeconfig.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\08-Комуникация-между-обекти\08\08\bin\Debug\net6.0\08.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\08-Комуникация-между-обекти\08\08\bin\Debug\net6.0\ref\08.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\08-Комуникация-между-обекти\08\08\bin\Debug\net6.0\08.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\08-Комуникация-между-обекти\08\08\obj\Debug\net6.0\08.GlobalUsings.g.cs
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\08-Комуникация-между-обекти\08\08\obj\Debug\net6.0\08.csproj.AssemblyReference.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\08-Комуникация-между-обекти\08\08\obj\Debug\net6.0\08.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\08-Комуникация-между-обекти\08\08\obj\Debug\net6.0\08.AssemblyInfoInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\08-Комуникация-между-обекти\08\08\obj\Debug\net6.0\08.AssemblyInfo.cs
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\08-Комуникация-между-обекти\08\08\obj\Debug\net6.0\08.csproj.CoreCompileInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\08-Комуникация-между-обекти\08\08\obj\Debug\net6.0\08.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\08-Комуникация-между-обекти\08\08\obj\Debug\net6.0\ref\08.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\08-Комуникация-между-обекти\08\08\obj\Debug\net6.0\08.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\08-Комуникация-между-обекти\08\08\obj\Debug\net6.0\08.genruntimeconfig.cache

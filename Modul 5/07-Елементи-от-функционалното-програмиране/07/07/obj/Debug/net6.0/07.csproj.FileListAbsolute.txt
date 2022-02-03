@@ -1,0 +1,16 @@
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\07-Елементи-от-функционалното-програмиране\07\07\bin\Debug\net6.0\07.exe
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\07-Елементи-от-функционалното-програмиране\07\07\bin\Debug\net6.0\07.deps.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\07-Елементи-от-функционалното-програмиране\07\07\bin\Debug\net6.0\07.runtimeconfig.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\07-Елементи-от-функционалното-програмиране\07\07\bin\Debug\net6.0\07.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\07-Елементи-от-функционалното-програмиране\07\07\bin\Debug\net6.0\ref\07.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\07-Елементи-от-функционалното-програмиране\07\07\bin\Debug\net6.0\07.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\07-Елементи-от-функционалното-програмиране\07\07\obj\Debug\net6.0\07.GlobalUsings.g.cs
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\07-Елементи-от-функционалното-програмиране\07\07\obj\Debug\net6.0\07.csproj.AssemblyReference.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\07-Елементи-от-функционалното-програмиране\07\07\obj\Debug\net6.0\07.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\07-Елементи-от-функционалното-програмиране\07\07\obj\Debug\net6.0\07.AssemblyInfoInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\07-Елементи-от-функционалното-програмиране\07\07\obj\Debug\net6.0\07.AssemblyInfo.cs
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\07-Елементи-от-функционалното-програмиране\07\07\obj\Debug\net6.0\07.csproj.CoreCompileInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\07-Елементи-от-функционалното-програмиране\07\07\obj\Debug\net6.0\07.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\07-Елементи-от-функционалното-програмиране\07\07\obj\Debug\net6.0\ref\07.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\07-Елементи-от-функционалното-програмиране\07\07\obj\Debug\net6.0\07.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\07-Елементи-от-функционалното-програмиране\07\07\obj\Debug\net6.0\07.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UnionAndIntersectionDemo\bin\Debug\net5.0\UnionAndIntersectionDemo.exe
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UnionAndIntersectionDemo\bin\Debug\net5.0\UnionAndIntersectionDemo.deps.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UnionAndIntersectionDemo\bin\Debug\net5.0\UnionAndIntersectionDemo.runtimeconfig.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UnionAndIntersectionDemo\bin\Debug\net5.0\UnionAndIntersectionDemo.runtimeconfig.dev.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UnionAndIntersectionDemo\bin\Debug\net5.0\UnionAndIntersectionDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UnionAndIntersectionDemo\bin\Debug\net5.0\ref\UnionAndIntersectionDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UnionAndIntersectionDemo\bin\Debug\net5.0\UnionAndIntersectionDemo.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UnionAndIntersectionDemo\obj\Debug\net5.0\UnionAndIntersectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UnionAndIntersectionDemo\obj\Debug\net5.0\UnionAndIntersectionDemo.AssemblyInfoInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UnionAndIntersectionDemo\obj\Debug\net5.0\UnionAndIntersectionDemo.AssemblyInfo.cs
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UnionAndIntersectionDemo\obj\Debug\net5.0\UnionAndIntersectionDemo.csproj.CoreCompileInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UnionAndIntersectionDemo\obj\Debug\net5.0\UnionAndIntersectionDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UnionAndIntersectionDemo\obj\Debug\net5.0\ref\UnionAndIntersectionDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UnionAndIntersectionDemo\obj\Debug\net5.0\UnionAndIntersectionDemo.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UnionAndIntersectionDemo\obj\Debug\net5.0\UnionAndIntersectionDemo.genruntimeconfig.cache

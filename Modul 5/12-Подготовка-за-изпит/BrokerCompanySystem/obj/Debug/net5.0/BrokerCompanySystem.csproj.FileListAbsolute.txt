@@ -1,0 +1,16 @@
+C:\Users\weeew\source\repos\DefiningClasses\BrokerCompanySystem\bin\Debug\net5.0\BrokerCompanySystem.exe
+C:\Users\weeew\source\repos\DefiningClasses\BrokerCompanySystem\bin\Debug\net5.0\BrokerCompanySystem.deps.json
+C:\Users\weeew\source\repos\DefiningClasses\BrokerCompanySystem\bin\Debug\net5.0\BrokerCompanySystem.runtimeconfig.json
+C:\Users\weeew\source\repos\DefiningClasses\BrokerCompanySystem\bin\Debug\net5.0\BrokerCompanySystem.runtimeconfig.dev.json
+C:\Users\weeew\source\repos\DefiningClasses\BrokerCompanySystem\bin\Debug\net5.0\BrokerCompanySystem.dll
+C:\Users\weeew\source\repos\DefiningClasses\BrokerCompanySystem\bin\Debug\net5.0\ref\BrokerCompanySystem.dll
+C:\Users\weeew\source\repos\DefiningClasses\BrokerCompanySystem\bin\Debug\net5.0\BrokerCompanySystem.pdb
+C:\Users\weeew\source\repos\DefiningClasses\BrokerCompanySystem\obj\Debug\net5.0\BrokerCompanySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\weeew\source\repos\DefiningClasses\BrokerCompanySystem\obj\Debug\net5.0\BrokerCompanySystem.AssemblyInfoInputs.cache
+C:\Users\weeew\source\repos\DefiningClasses\BrokerCompanySystem\obj\Debug\net5.0\BrokerCompanySystem.AssemblyInfo.cs
+C:\Users\weeew\source\repos\DefiningClasses\BrokerCompanySystem\obj\Debug\net5.0\BrokerCompanySystem.csproj.CoreCompileInputs.cache
+C:\Users\weeew\source\repos\DefiningClasses\BrokerCompanySystem\obj\Debug\net5.0\BrokerCompanySystem.dll
+C:\Users\weeew\source\repos\DefiningClasses\BrokerCompanySystem\obj\Debug\net5.0\ref\BrokerCompanySystem.dll
+C:\Users\weeew\source\repos\DefiningClasses\BrokerCompanySystem\obj\Debug\net5.0\BrokerCompanySystem.pdb
+C:\Users\weeew\source\repos\DefiningClasses\BrokerCompanySystem\obj\Debug\net5.0\BrokerCompanySystem.genruntimeconfig.cache
+C:\Users\weeew\source\repos\DefiningClasses\BrokerCompanySystem\obj\Debug\net5.0\BrokerCompanySystem.csproj.AssemblyReference.cache

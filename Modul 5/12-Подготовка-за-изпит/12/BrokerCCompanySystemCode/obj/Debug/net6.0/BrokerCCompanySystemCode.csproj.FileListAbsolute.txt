@@ -1,0 +1,16 @@
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\BrokerCCompanySystemCode\bin\Debug\net6.0\BrokerCCompanySystemCode.exe
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\BrokerCCompanySystemCode\bin\Debug\net6.0\BrokerCCompanySystemCode.deps.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\BrokerCCompanySystemCode\bin\Debug\net6.0\BrokerCCompanySystemCode.runtimeconfig.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\BrokerCCompanySystemCode\bin\Debug\net6.0\BrokerCCompanySystemCode.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\BrokerCCompanySystemCode\bin\Debug\net6.0\ref\BrokerCCompanySystemCode.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\BrokerCCompanySystemCode\bin\Debug\net6.0\BrokerCCompanySystemCode.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\BrokerCCompanySystemCode\obj\Debug\net6.0\BrokerCCompanySystemCode.GlobalUsings.g.cs
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\BrokerCCompanySystemCode\obj\Debug\net6.0\BrokerCCompanySystemCode.csproj.AssemblyReference.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\BrokerCCompanySystemCode\obj\Debug\net6.0\BrokerCCompanySystemCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\BrokerCCompanySystemCode\obj\Debug\net6.0\BrokerCCompanySystemCode.AssemblyInfoInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\BrokerCCompanySystemCode\obj\Debug\net6.0\BrokerCCompanySystemCode.AssemblyInfo.cs
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\BrokerCCompanySystemCode\obj\Debug\net6.0\BrokerCCompanySystemCode.csproj.CoreCompileInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\BrokerCCompanySystemCode\obj\Debug\net6.0\BrokerCCompanySystemCode.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\BrokerCCompanySystemCode\obj\Debug\net6.0\ref\BrokerCCompanySystemCode.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\BrokerCCompanySystemCode\obj\Debug\net6.0\BrokerCCompanySystemCode.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\BrokerCCompanySystemCode\obj\Debug\net6.0\BrokerCCompanySystemCode.genruntimeconfig.cache

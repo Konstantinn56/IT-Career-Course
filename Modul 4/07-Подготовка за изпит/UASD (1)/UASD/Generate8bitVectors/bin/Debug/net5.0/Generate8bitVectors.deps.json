@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Generate8bitVectors/1.0.0": {
+        "runtime": {
+          "Generate8bitVectors.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generate8bitVectors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

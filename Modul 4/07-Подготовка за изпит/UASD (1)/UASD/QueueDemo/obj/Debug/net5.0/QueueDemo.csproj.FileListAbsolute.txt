@@ -1,0 +1,16 @@
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\QueueDemo\bin\Debug\net5.0\QueueDemo.exe
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\QueueDemo\bin\Debug\net5.0\QueueDemo.deps.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\QueueDemo\bin\Debug\net5.0\QueueDemo.runtimeconfig.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\QueueDemo\bin\Debug\net5.0\QueueDemo.runtimeconfig.dev.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\QueueDemo\bin\Debug\net5.0\QueueDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\QueueDemo\bin\Debug\net5.0\ref\QueueDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\QueueDemo\bin\Debug\net5.0\QueueDemo.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\QueueDemo\obj\Debug\net5.0\QueueDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\QueueDemo\obj\Debug\net5.0\QueueDemo.AssemblyInfoInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\QueueDemo\obj\Debug\net5.0\QueueDemo.AssemblyInfo.cs
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\QueueDemo\obj\Debug\net5.0\QueueDemo.csproj.CoreCompileInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\QueueDemo\obj\Debug\net5.0\QueueDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\QueueDemo\obj\Debug\net5.0\ref\QueueDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\QueueDemo\obj\Debug\net5.0\QueueDemo.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\QueueDemo\obj\Debug\net5.0\QueueDemo.genruntimeconfig.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\QueueDemo\obj\Debug\net5.0\QueueDemo.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UASD\bin\Debug\net5.0\UASD.exe
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UASD\bin\Debug\net5.0\UASD.deps.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UASD\bin\Debug\net5.0\UASD.runtimeconfig.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UASD\bin\Debug\net5.0\UASD.runtimeconfig.dev.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UASD\bin\Debug\net5.0\UASD.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UASD\bin\Debug\net5.0\ref\UASD.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UASD\bin\Debug\net5.0\UASD.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UASD\obj\Debug\net5.0\UASD.csproj.AssemblyReference.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UASD\obj\Debug\net5.0\UASD.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UASD\obj\Debug\net5.0\UASD.AssemblyInfoInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UASD\obj\Debug\net5.0\UASD.AssemblyInfo.cs
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UASD\obj\Debug\net5.0\UASD.csproj.CoreCompileInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UASD\obj\Debug\net5.0\UASD.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UASD\obj\Debug\net5.0\ref\UASD.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UASD\obj\Debug\net5.0\UASD.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\UASD\obj\Debug\net5.0\UASD.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\05-Полиморфизъм-в-ООП\TODO\05.TODO\05.5\bin\Debug\net6.0\05.5.exe
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\05-Полиморфизъм-в-ООП\TODO\05.TODO\05.5\bin\Debug\net6.0\05.5.deps.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\05-Полиморфизъм-в-ООП\TODO\05.TODO\05.5\bin\Debug\net6.0\05.5.runtimeconfig.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\05-Полиморфизъм-в-ООП\TODO\05.TODO\05.5\bin\Debug\net6.0\05.5.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\05-Полиморфизъм-в-ООП\TODO\05.TODO\05.5\bin\Debug\net6.0\ref\05.5.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\05-Полиморфизъм-в-ООП\TODO\05.TODO\05.5\bin\Debug\net6.0\05.5.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\05-Полиморфизъм-в-ООП\TODO\05.TODO\05.5\obj\Debug\net6.0\05.5.csproj.AssemblyReference.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\05-Полиморфизъм-в-ООП\TODO\05.TODO\05.5\obj\Debug\net6.0\05.5.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\05-Полиморфизъм-в-ООП\TODO\05.TODO\05.5\obj\Debug\net6.0\05.5.AssemblyInfoInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\05-Полиморфизъм-в-ООП\TODO\05.TODO\05.5\obj\Debug\net6.0\05.5.AssemblyInfo.cs
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\05-Полиморфизъм-в-ООП\TODO\05.TODO\05.5\obj\Debug\net6.0\05.5.csproj.CoreCompileInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\05-Полиморфизъм-в-ООП\TODO\05.TODO\05.5\obj\Debug\net6.0\05.5.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\05-Полиморфизъм-в-ООП\TODO\05.TODO\05.5\obj\Debug\net6.0\ref\05.5.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\05-Полиморфизъм-в-ООП\TODO\05.TODO\05.5\obj\Debug\net6.0\05.5.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\05-Полиморфизъм-в-ООП\TODO\05.TODO\05.5\obj\Debug\net6.0\05.5.genruntimeconfig.cache

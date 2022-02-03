@@ -1,0 +1,16 @@
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\StoreSystem\bin\Debug\net6.0\StoreSystem.exe
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\StoreSystem\bin\Debug\net6.0\StoreSystem.deps.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\StoreSystem\bin\Debug\net6.0\StoreSystem.runtimeconfig.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\StoreSystem\bin\Debug\net6.0\StoreSystem.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\StoreSystem\bin\Debug\net6.0\ref\StoreSystem.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\StoreSystem\bin\Debug\net6.0\StoreSystem.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\StoreSystem\obj\Debug\net6.0\StoreSystem.GlobalUsings.g.cs
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\StoreSystem\obj\Debug\net6.0\StoreSystem.csproj.AssemblyReference.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\StoreSystem\obj\Debug\net6.0\StoreSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\StoreSystem\obj\Debug\net6.0\StoreSystem.AssemblyInfoInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\StoreSystem\obj\Debug\net6.0\StoreSystem.AssemblyInfo.cs
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\StoreSystem\obj\Debug\net6.0\StoreSystem.csproj.CoreCompileInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\StoreSystem\obj\Debug\net6.0\StoreSystem.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\StoreSystem\obj\Debug\net6.0\ref\StoreSystem.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\StoreSystem\obj\Debug\net6.0\StoreSystem.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\StoreSystem\obj\Debug\net6.0\StoreSystem.genruntimeconfig.cache

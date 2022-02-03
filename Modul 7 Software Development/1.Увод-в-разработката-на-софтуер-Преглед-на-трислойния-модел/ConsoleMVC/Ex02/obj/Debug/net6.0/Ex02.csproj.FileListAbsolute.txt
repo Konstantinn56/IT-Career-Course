@@ -1,0 +1,15 @@
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 7 Software Development\1.Увод-в-разработката-на-софтуер-Преглед-на-трислойния-модел\ConsoleMVC\Ex02\bin\Debug\net6.0\Ex02.exe
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 7 Software Development\1.Увод-в-разработката-на-софтуер-Преглед-на-трислойния-модел\ConsoleMVC\Ex02\bin\Debug\net6.0\Ex02.deps.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 7 Software Development\1.Увод-в-разработката-на-софтуер-Преглед-на-трислойния-модел\ConsoleMVC\Ex02\bin\Debug\net6.0\Ex02.runtimeconfig.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 7 Software Development\1.Увод-в-разработката-на-софтуер-Преглед-на-трислойния-модел\ConsoleMVC\Ex02\bin\Debug\net6.0\Ex02.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 7 Software Development\1.Увод-в-разработката-на-софтуер-Преглед-на-трислойния-модел\ConsoleMVC\Ex02\bin\Debug\net6.0\Ex02.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 7 Software Development\1.Увод-в-разработката-на-софтуер-Преглед-на-трислойния-модел\ConsoleMVC\Ex02\obj\Debug\net6.0\Ex02.csproj.AssemblyReference.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 7 Software Development\1.Увод-в-разработката-на-софтуер-Преглед-на-трислойния-модел\ConsoleMVC\Ex02\obj\Debug\net6.0\Ex02.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 7 Software Development\1.Увод-в-разработката-на-софтуер-Преглед-на-трислойния-модел\ConsoleMVC\Ex02\obj\Debug\net6.0\Ex02.AssemblyInfoInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 7 Software Development\1.Увод-в-разработката-на-софтуер-Преглед-на-трислойния-модел\ConsoleMVC\Ex02\obj\Debug\net6.0\Ex02.AssemblyInfo.cs
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 7 Software Development\1.Увод-в-разработката-на-софтуер-Преглед-на-трислойния-модел\ConsoleMVC\Ex02\obj\Debug\net6.0\Ex02.csproj.CoreCompileInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 7 Software Development\1.Увод-в-разработката-на-софтуер-Преглед-на-трислойния-модел\ConsoleMVC\Ex02\obj\Debug\net6.0\Ex02.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 7 Software Development\1.Увод-в-разработката-на-софтуер-Преглед-на-трислойния-модел\ConsoleMVC\Ex02\obj\Debug\net6.0\refint\Ex02.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 7 Software Development\1.Увод-в-разработката-на-софтуер-Преглед-на-трислойния-модел\ConsoleMVC\Ex02\obj\Debug\net6.0\Ex02.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 7 Software Development\1.Увод-в-разработката-на-софтуер-Преглед-на-трислойния-модел\ConsoleMVC\Ex02\obj\Debug\net6.0\Ex02.genruntimeconfig.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 7 Software Development\1.Увод-в-разработката-на-софтуер-Преглед-на-трислойния-модел\ConsoleMVC\Ex02\obj\Debug\net6.0\ref\Ex02.dll

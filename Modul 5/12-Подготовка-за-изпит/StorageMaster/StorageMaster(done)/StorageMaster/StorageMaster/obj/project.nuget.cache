@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "m+3FL0qFMS4t/aq5Nspk7hmoT1KrZKPKOCYDEWdp7DAALsSDGn20nF9RAgPnpFuZmyVGucZ5BTBe2C0xWNqBXA==",
+  "success": true,
+  "projectFilePath": "D:\\School\\Programieren\\Git Hub\\IT-Career-Course\\IT-Career-Course\\Modul 5\\12-Подготовка-за-изпит\\StorageMaster\\StorageMaster(done)\\StorageMaster\\StorageMaster\\StorageMaster.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kocep\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512",
+    "C:\\Users\\kocep\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kocep\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kocep\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

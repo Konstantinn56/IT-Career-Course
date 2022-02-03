@@ -1,0 +1,16 @@
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Recursion\bin\Debug\net5.0\Recursion.exe
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Recursion\bin\Debug\net5.0\Recursion.deps.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Recursion\bin\Debug\net5.0\Recursion.runtimeconfig.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Recursion\bin\Debug\net5.0\Recursion.runtimeconfig.dev.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Recursion\bin\Debug\net5.0\Recursion.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Recursion\bin\Debug\net5.0\ref\Recursion.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Recursion\bin\Debug\net5.0\Recursion.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Recursion\obj\Debug\net5.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Recursion\obj\Debug\net5.0\Recursion.AssemblyInfoInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Recursion\obj\Debug\net5.0\Recursion.AssemblyInfo.cs
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Recursion\obj\Debug\net5.0\Recursion.csproj.CoreCompileInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Recursion\obj\Debug\net5.0\Recursion.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Recursion\obj\Debug\net5.0\ref\Recursion.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Recursion\obj\Debug\net5.0\Recursion.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Recursion\obj\Debug\net5.0\Recursion.genruntimeconfig.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Recursion\obj\Debug\net5.0\Recursion.csproj.AssemblyReference.cache

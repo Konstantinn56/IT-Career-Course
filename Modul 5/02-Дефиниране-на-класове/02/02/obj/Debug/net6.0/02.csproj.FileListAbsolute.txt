@@ -1,0 +1,15 @@
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02\bin\Debug\net6.0\02.exe
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02\bin\Debug\net6.0\02.deps.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02\bin\Debug\net6.0\02.runtimeconfig.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02\bin\Debug\net6.0\02.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02\bin\Debug\net6.0\ref\02.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02\bin\Debug\net6.0\02.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02\obj\Debug\net6.0\02.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02\obj\Debug\net6.0\02.AssemblyInfoInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02\obj\Debug\net6.0\02.AssemblyInfo.cs
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02\obj\Debug\net6.0\02.csproj.CoreCompileInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02\obj\Debug\net6.0\02.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02\obj\Debug\net6.0\ref\02.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02\obj\Debug\net6.0\02.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02\obj\Debug\net6.0\02.genruntimeconfig.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02\obj\Debug\net6.0\02.csproj.AssemblyReference.cache

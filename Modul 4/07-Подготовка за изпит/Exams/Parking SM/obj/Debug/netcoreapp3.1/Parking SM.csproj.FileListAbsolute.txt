@@ -1,0 +1,12 @@
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Parking SM\bin\Debug\netcoreapp3.1\Parking SM.exe
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Parking SM\bin\Debug\netcoreapp3.1\Parking SM.deps.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Parking SM\bin\Debug\netcoreapp3.1\Parking SM.runtimeconfig.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Parking SM\bin\Debug\netcoreapp3.1\Parking SM.runtimeconfig.dev.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Parking SM\bin\Debug\netcoreapp3.1\Parking SM.dll
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Parking SM\bin\Debug\netcoreapp3.1\Parking SM.pdb
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Parking SM\obj\Debug\netcoreapp3.1\Parking SM.AssemblyInfoInputs.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Parking SM\obj\Debug\netcoreapp3.1\Parking SM.AssemblyInfo.cs
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Parking SM\obj\Debug\netcoreapp3.1\Parking SM.csproj.CoreCompileInputs.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Parking SM\obj\Debug\netcoreapp3.1\Parking SM.dll
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Parking SM\obj\Debug\netcoreapp3.1\Parking SM.pdb
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Parking SM\obj\Debug\netcoreapp3.1\Parking SM.genruntimeconfig.cache

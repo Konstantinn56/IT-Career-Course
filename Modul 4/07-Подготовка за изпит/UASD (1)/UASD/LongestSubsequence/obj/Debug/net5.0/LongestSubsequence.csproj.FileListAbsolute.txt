@@ -1,0 +1,16 @@
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\LongestSubsequence\bin\Debug\net5.0\LongestSubsequence.exe
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\LongestSubsequence\bin\Debug\net5.0\LongestSubsequence.deps.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\LongestSubsequence\bin\Debug\net5.0\LongestSubsequence.runtimeconfig.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\LongestSubsequence\bin\Debug\net5.0\LongestSubsequence.runtimeconfig.dev.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\LongestSubsequence\bin\Debug\net5.0\LongestSubsequence.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\LongestSubsequence\bin\Debug\net5.0\ref\LongestSubsequence.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\LongestSubsequence\bin\Debug\net5.0\LongestSubsequence.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\LongestSubsequence\obj\Debug\net5.0\LongestSubsequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\LongestSubsequence\obj\Debug\net5.0\LongestSubsequence.AssemblyInfoInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\LongestSubsequence\obj\Debug\net5.0\LongestSubsequence.AssemblyInfo.cs
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\LongestSubsequence\obj\Debug\net5.0\LongestSubsequence.csproj.CoreCompileInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\LongestSubsequence\obj\Debug\net5.0\LongestSubsequence.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\LongestSubsequence\obj\Debug\net5.0\ref\LongestSubsequence.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\LongestSubsequence\obj\Debug\net5.0\LongestSubsequence.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\LongestSubsequence\obj\Debug\net5.0\LongestSubsequence.genruntimeconfig.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\LongestSubsequence\obj\Debug\net5.0\LongestSubsequence.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\ArrayListDemo\bin\Debug\net5.0\ArrayListDemo.exe
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\ArrayListDemo\bin\Debug\net5.0\ArrayListDemo.deps.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\ArrayListDemo\bin\Debug\net5.0\ArrayListDemo.runtimeconfig.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\ArrayListDemo\bin\Debug\net5.0\ArrayListDemo.runtimeconfig.dev.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\ArrayListDemo\bin\Debug\net5.0\ArrayListDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\ArrayListDemo\bin\Debug\net5.0\ref\ArrayListDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\ArrayListDemo\bin\Debug\net5.0\ArrayListDemo.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\ArrayListDemo\obj\Debug\net5.0\ArrayListDemo.csproj.AssemblyReference.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\ArrayListDemo\obj\Debug\net5.0\ArrayListDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\ArrayListDemo\obj\Debug\net5.0\ArrayListDemo.AssemblyInfoInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\ArrayListDemo\obj\Debug\net5.0\ArrayListDemo.AssemblyInfo.cs
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\ArrayListDemo\obj\Debug\net5.0\ArrayListDemo.csproj.CoreCompileInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\ArrayListDemo\obj\Debug\net5.0\ArrayListDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\ArrayListDemo\obj\Debug\net5.0\ref\ArrayListDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\ArrayListDemo\obj\Debug\net5.0\ArrayListDemo.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\ArrayListDemo\obj\Debug\net5.0\ArrayListDemo.genruntimeconfig.cache

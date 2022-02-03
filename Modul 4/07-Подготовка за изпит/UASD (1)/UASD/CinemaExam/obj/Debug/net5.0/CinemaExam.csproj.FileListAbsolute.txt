@@ -1,0 +1,16 @@
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\CinemaExam\bin\Debug\net5.0\CinemaExam.exe
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\CinemaExam\bin\Debug\net5.0\CinemaExam.deps.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\CinemaExam\bin\Debug\net5.0\CinemaExam.runtimeconfig.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\CinemaExam\bin\Debug\net5.0\CinemaExam.runtimeconfig.dev.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\CinemaExam\bin\Debug\net5.0\CinemaExam.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\CinemaExam\bin\Debug\net5.0\ref\CinemaExam.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\CinemaExam\bin\Debug\net5.0\CinemaExam.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\CinemaExam\obj\Debug\net5.0\CinemaExam.csproj.AssemblyReference.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\CinemaExam\obj\Debug\net5.0\CinemaExam.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\CinemaExam\obj\Debug\net5.0\CinemaExam.AssemblyInfoInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\CinemaExam\obj\Debug\net5.0\CinemaExam.AssemblyInfo.cs
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\CinemaExam\obj\Debug\net5.0\CinemaExam.csproj.CoreCompileInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\CinemaExam\obj\Debug\net5.0\CinemaExam.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\CinemaExam\obj\Debug\net5.0\ref\CinemaExam.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\CinemaExam\obj\Debug\net5.0\CinemaExam.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\CinemaExam\obj\Debug\net5.0\CinemaExam.genruntimeconfig.cache

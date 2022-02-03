@@ -1,0 +1,15 @@
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SequenceDemo\bin\Debug\net5.0\SequenceDemo.exe
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SequenceDemo\bin\Debug\net5.0\SequenceDemo.deps.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SequenceDemo\bin\Debug\net5.0\SequenceDemo.runtimeconfig.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SequenceDemo\bin\Debug\net5.0\SequenceDemo.runtimeconfig.dev.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SequenceDemo\bin\Debug\net5.0\SequenceDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SequenceDemo\bin\Debug\net5.0\ref\SequenceDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SequenceDemo\bin\Debug\net5.0\SequenceDemo.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SequenceDemo\obj\Debug\net5.0\SequenceDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SequenceDemo\obj\Debug\net5.0\SequenceDemo.AssemblyInfoInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SequenceDemo\obj\Debug\net5.0\SequenceDemo.AssemblyInfo.cs
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SequenceDemo\obj\Debug\net5.0\SequenceDemo.csproj.CoreCompileInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SequenceDemo\obj\Debug\net5.0\SequenceDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SequenceDemo\obj\Debug\net5.0\ref\SequenceDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SequenceDemo\obj\Debug\net5.0\SequenceDemo.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SequenceDemo\obj\Debug\net5.0\SequenceDemo.genruntimeconfig.cache

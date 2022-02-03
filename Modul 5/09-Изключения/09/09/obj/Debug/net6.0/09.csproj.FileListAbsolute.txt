@@ -1,0 +1,16 @@
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\09-Изключения\09\09\bin\Debug\net6.0\09.exe
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\09-Изключения\09\09\bin\Debug\net6.0\09.deps.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\09-Изключения\09\09\bin\Debug\net6.0\09.runtimeconfig.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\09-Изключения\09\09\bin\Debug\net6.0\09.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\09-Изключения\09\09\bin\Debug\net6.0\ref\09.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\09-Изключения\09\09\bin\Debug\net6.0\09.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\09-Изключения\09\09\obj\Debug\net6.0\09.GlobalUsings.g.cs
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\09-Изключения\09\09\obj\Debug\net6.0\09.csproj.AssemblyReference.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\09-Изключения\09\09\obj\Debug\net6.0\09.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\09-Изключения\09\09\obj\Debug\net6.0\09.AssemblyInfoInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\09-Изключения\09\09\obj\Debug\net6.0\09.AssemblyInfo.cs
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\09-Изключения\09\09\obj\Debug\net6.0\09.csproj.CoreCompileInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\09-Изключения\09\09\obj\Debug\net6.0\09.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\09-Изключения\09\09\obj\Debug\net6.0\ref\09.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\09-Изключения\09\09\obj\Debug\net6.0\09.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\09-Изключения\09\09\obj\Debug\net6.0\09.genruntimeconfig.cache

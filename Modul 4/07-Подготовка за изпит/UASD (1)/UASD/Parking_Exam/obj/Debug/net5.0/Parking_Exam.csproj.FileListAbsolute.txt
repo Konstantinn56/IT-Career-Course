@@ -1,0 +1,16 @@
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Parking_Exam\bin\Debug\net5.0\Parking_Exam.exe
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Parking_Exam\bin\Debug\net5.0\Parking_Exam.deps.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Parking_Exam\bin\Debug\net5.0\Parking_Exam.runtimeconfig.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Parking_Exam\bin\Debug\net5.0\Parking_Exam.runtimeconfig.dev.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Parking_Exam\bin\Debug\net5.0\Parking_Exam.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Parking_Exam\bin\Debug\net5.0\ref\Parking_Exam.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Parking_Exam\bin\Debug\net5.0\Parking_Exam.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Parking_Exam\obj\Debug\net5.0\Parking_Exam.csproj.AssemblyReference.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Parking_Exam\obj\Debug\net5.0\Parking_Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Parking_Exam\obj\Debug\net5.0\Parking_Exam.AssemblyInfoInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Parking_Exam\obj\Debug\net5.0\Parking_Exam.AssemblyInfo.cs
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Parking_Exam\obj\Debug\net5.0\Parking_Exam.csproj.CoreCompileInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Parking_Exam\obj\Debug\net5.0\Parking_Exam.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Parking_Exam\obj\Debug\net5.0\ref\Parking_Exam.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Parking_Exam\obj\Debug\net5.0\Parking_Exam.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Parking_Exam\obj\Debug\net5.0\Parking_Exam.genruntimeconfig.cache

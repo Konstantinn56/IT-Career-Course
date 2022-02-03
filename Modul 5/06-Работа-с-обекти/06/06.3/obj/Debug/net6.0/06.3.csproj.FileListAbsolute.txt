@@ -1,0 +1,16 @@
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\06-Работа-с-обекти\06\06.3\bin\Debug\net6.0\06.3.exe
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\06-Работа-с-обекти\06\06.3\bin\Debug\net6.0\06.3.deps.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\06-Работа-с-обекти\06\06.3\bin\Debug\net6.0\06.3.runtimeconfig.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\06-Работа-с-обекти\06\06.3\bin\Debug\net6.0\06.3.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\06-Работа-с-обекти\06\06.3\bin\Debug\net6.0\ref\06.3.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\06-Работа-с-обекти\06\06.3\bin\Debug\net6.0\06.3.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\06-Работа-с-обекти\06\06.3\obj\Debug\net6.0\06.3.GlobalUsings.g.cs
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\06-Работа-с-обекти\06\06.3\obj\Debug\net6.0\06.3.csproj.AssemblyReference.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\06-Работа-с-обекти\06\06.3\obj\Debug\net6.0\06.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\06-Работа-с-обекти\06\06.3\obj\Debug\net6.0\06.3.AssemblyInfoInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\06-Работа-с-обекти\06\06.3\obj\Debug\net6.0\06.3.AssemblyInfo.cs
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\06-Работа-с-обекти\06\06.3\obj\Debug\net6.0\06.3.csproj.CoreCompileInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\06-Работа-с-обекти\06\06.3\obj\Debug\net6.0\06.3.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\06-Работа-с-обекти\06\06.3\obj\Debug\net6.0\ref\06.3.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\06-Работа-с-обекти\06\06.3\obj\Debug\net6.0\06.3.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\06-Работа-с-обекти\06\06.3\obj\Debug\net6.0\06.3.genruntimeconfig.cache

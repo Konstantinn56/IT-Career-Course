@@ -1,0 +1,13 @@
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Restaurant SM\bin\Debug\netcoreapp3.1\Restaurant SM.exe
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Restaurant SM\bin\Debug\netcoreapp3.1\Restaurant SM.deps.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Restaurant SM\bin\Debug\netcoreapp3.1\Restaurant SM.runtimeconfig.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Restaurant SM\bin\Debug\netcoreapp3.1\Restaurant SM.runtimeconfig.dev.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Restaurant SM\bin\Debug\netcoreapp3.1\Restaurant SM.dll
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Restaurant SM\bin\Debug\netcoreapp3.1\Restaurant SM.pdb
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Restaurant SM\obj\Debug\netcoreapp3.1\Restaurant SM.csprojAssemblyReference.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Restaurant SM\obj\Debug\netcoreapp3.1\Restaurant SM.AssemblyInfoInputs.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Restaurant SM\obj\Debug\netcoreapp3.1\Restaurant SM.AssemblyInfo.cs
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Restaurant SM\obj\Debug\netcoreapp3.1\Restaurant SM.csproj.CoreCompileInputs.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Restaurant SM\obj\Debug\netcoreapp3.1\Restaurant SM.dll
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Restaurant SM\obj\Debug\netcoreapp3.1\Restaurant SM.pdb
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\07-Подготовка за изпит\Exams\Restaurant SM\obj\Debug\netcoreapp3.1\Restaurant SM.genruntimeconfig.cache

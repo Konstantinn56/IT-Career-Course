@@ -1,0 +1,15 @@
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2\bin\Debug\net6.0\02.2.exe
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2\bin\Debug\net6.0\02.2.deps.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2\bin\Debug\net6.0\02.2.runtimeconfig.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2\bin\Debug\net6.0\02.2.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2\bin\Debug\net6.0\ref\02.2.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2\bin\Debug\net6.0\02.2.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2\obj\Debug\net6.0\02.2.csproj.AssemblyReference.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2\obj\Debug\net6.0\02.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2\obj\Debug\net6.0\02.2.AssemblyInfoInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2\obj\Debug\net6.0\02.2.AssemblyInfo.cs
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2\obj\Debug\net6.0\02.2.csproj.CoreCompileInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2\obj\Debug\net6.0\02.2.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2\obj\Debug\net6.0\ref\02.2.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2\obj\Debug\net6.0\02.2.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2\obj\Debug\net6.0\02.2.genruntimeconfig.cache

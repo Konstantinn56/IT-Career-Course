@@ -1,0 +1,16 @@
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Game\bin\Debug\net5.0\Game.exe
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Game\bin\Debug\net5.0\Game.deps.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Game\bin\Debug\net5.0\Game.runtimeconfig.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Game\bin\Debug\net5.0\Game.runtimeconfig.dev.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Game\bin\Debug\net5.0\Game.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Game\bin\Debug\net5.0\ref\Game.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Game\bin\Debug\net5.0\Game.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Game\obj\Debug\net5.0\Game.csproj.AssemblyReference.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Game\obj\Debug\net5.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Game\obj\Debug\net5.0\Game.AssemblyInfoInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Game\obj\Debug\net5.0\Game.AssemblyInfo.cs
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Game\obj\Debug\net5.0\Game.csproj.CoreCompileInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Game\obj\Debug\net5.0\Game.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Game\obj\Debug\net5.0\ref\Game.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Game\obj\Debug\net5.0\Game.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Game\obj\Debug\net5.0\Game.genruntimeconfig.cache

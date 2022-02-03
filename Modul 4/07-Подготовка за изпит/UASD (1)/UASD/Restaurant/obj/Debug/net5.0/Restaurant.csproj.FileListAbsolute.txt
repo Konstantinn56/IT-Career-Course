@@ -1,0 +1,16 @@
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Restaurant\bin\Debug\net5.0\Restaurant.exe
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Restaurant\bin\Debug\net5.0\Restaurant.deps.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Restaurant\bin\Debug\net5.0\Restaurant.runtimeconfig.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Restaurant\bin\Debug\net5.0\Restaurant.runtimeconfig.dev.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Restaurant\bin\Debug\net5.0\Restaurant.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Restaurant\bin\Debug\net5.0\ref\Restaurant.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Restaurant\bin\Debug\net5.0\Restaurant.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Restaurant\obj\Debug\net5.0\Restaurant.csproj.AssemblyReference.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Restaurant\obj\Debug\net5.0\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Restaurant\obj\Debug\net5.0\Restaurant.AssemblyInfoInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Restaurant\obj\Debug\net5.0\Restaurant.AssemblyInfo.cs
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Restaurant\obj\Debug\net5.0\Restaurant.csproj.CoreCompileInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Restaurant\obj\Debug\net5.0\Restaurant.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Restaurant\obj\Debug\net5.0\ref\Restaurant.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Restaurant\obj\Debug\net5.0\Restaurant.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Restaurant\obj\Debug\net5.0\Restaurant.genruntimeconfig.cache

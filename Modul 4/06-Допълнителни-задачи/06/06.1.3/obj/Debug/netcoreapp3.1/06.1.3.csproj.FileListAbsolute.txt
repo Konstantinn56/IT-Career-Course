@@ -1,0 +1,13 @@
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\06-Допълнителни-задачи\06\06.1.3\bin\Debug\netcoreapp3.1\06.1.3.exe
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\06-Допълнителни-задачи\06\06.1.3\bin\Debug\netcoreapp3.1\06.1.3.deps.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\06-Допълнителни-задачи\06\06.1.3\bin\Debug\netcoreapp3.1\06.1.3.runtimeconfig.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\06-Допълнителни-задачи\06\06.1.3\bin\Debug\netcoreapp3.1\06.1.3.runtimeconfig.dev.json
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\06-Допълнителни-задачи\06\06.1.3\bin\Debug\netcoreapp3.1\06.1.3.dll
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\06-Допълнителни-задачи\06\06.1.3\bin\Debug\netcoreapp3.1\06.1.3.pdb
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\06-Допълнителни-задачи\06\06.1.3\obj\Debug\netcoreapp3.1\06.1.3.csprojAssemblyReference.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\06-Допълнителни-задачи\06\06.1.3\obj\Debug\netcoreapp3.1\06.1.3.AssemblyInfoInputs.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\06-Допълнителни-задачи\06\06.1.3\obj\Debug\netcoreapp3.1\06.1.3.AssemblyInfo.cs
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\06-Допълнителни-задачи\06\06.1.3\obj\Debug\netcoreapp3.1\06.1.3.csproj.CoreCompileInputs.cache
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\06-Допълнителни-задачи\06\06.1.3\obj\Debug\netcoreapp3.1\06.1.3.dll
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\06-Допълнителни-задачи\06\06.1.3\obj\Debug\netcoreapp3.1\06.1.3.pdb
+C:\Users\kocep\Desktop\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 4\06-Допълнителни-задачи\06\06.1.3\obj\Debug\netcoreapp3.1\06.1.3.genruntimeconfig.cache

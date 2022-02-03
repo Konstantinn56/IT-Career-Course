@@ -1,0 +1,16 @@
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Train_Exam\bin\Debug\net5.0\Train_Exam.exe
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Train_Exam\bin\Debug\net5.0\Train_Exam.deps.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Train_Exam\bin\Debug\net5.0\Train_Exam.runtimeconfig.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Train_Exam\bin\Debug\net5.0\Train_Exam.runtimeconfig.dev.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Train_Exam\bin\Debug\net5.0\Train_Exam.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Train_Exam\bin\Debug\net5.0\ref\Train_Exam.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Train_Exam\bin\Debug\net5.0\Train_Exam.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Train_Exam\obj\Debug\net5.0\Train_Exam.csproj.AssemblyReference.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Train_Exam\obj\Debug\net5.0\Train_Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Train_Exam\obj\Debug\net5.0\Train_Exam.AssemblyInfoInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Train_Exam\obj\Debug\net5.0\Train_Exam.AssemblyInfo.cs
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Train_Exam\obj\Debug\net5.0\Train_Exam.csproj.CoreCompileInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Train_Exam\obj\Debug\net5.0\Train_Exam.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Train_Exam\obj\Debug\net5.0\ref\Train_Exam.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Train_Exam\obj\Debug\net5.0\Train_Exam.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\Train_Exam\obj\Debug\net5.0\Train_Exam.genruntimeconfig.cache

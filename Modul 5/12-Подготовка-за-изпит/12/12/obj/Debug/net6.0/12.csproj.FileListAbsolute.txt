@@ -1,0 +1,16 @@
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\12\bin\Debug\net6.0\12.exe
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\12\bin\Debug\net6.0\12.deps.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\12\bin\Debug\net6.0\12.runtimeconfig.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\12\bin\Debug\net6.0\12.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\12\bin\Debug\net6.0\ref\12.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\12\bin\Debug\net6.0\12.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\12\obj\Debug\net6.0\12.GlobalUsings.g.cs
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\12\obj\Debug\net6.0\12.csproj.AssemblyReference.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\12\obj\Debug\net6.0\12.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\12\obj\Debug\net6.0\12.AssemblyInfoInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\12\obj\Debug\net6.0\12.AssemblyInfo.cs
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\12\obj\Debug\net6.0\12.csproj.CoreCompileInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\12\obj\Debug\net6.0\12.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\12\obj\Debug\net6.0\ref\12.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\12\obj\Debug\net6.0\12.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\12\obj\Debug\net6.0\12.genruntimeconfig.cache

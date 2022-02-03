@@ -1,0 +1,16 @@
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SearchingAlgorythms\bin\Debug\net5.0\SearchingAlgorythms.exe
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SearchingAlgorythms\bin\Debug\net5.0\SearchingAlgorythms.deps.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SearchingAlgorythms\bin\Debug\net5.0\SearchingAlgorythms.runtimeconfig.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SearchingAlgorythms\bin\Debug\net5.0\SearchingAlgorythms.runtimeconfig.dev.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SearchingAlgorythms\bin\Debug\net5.0\SearchingAlgorythms.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SearchingAlgorythms\bin\Debug\net5.0\ref\SearchingAlgorythms.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SearchingAlgorythms\bin\Debug\net5.0\SearchingAlgorythms.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SearchingAlgorythms\obj\Debug\net5.0\SearchingAlgorythms.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SearchingAlgorythms\obj\Debug\net5.0\SearchingAlgorythms.AssemblyInfoInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SearchingAlgorythms\obj\Debug\net5.0\SearchingAlgorythms.AssemblyInfo.cs
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SearchingAlgorythms\obj\Debug\net5.0\SearchingAlgorythms.csproj.CoreCompileInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SearchingAlgorythms\obj\Debug\net5.0\SearchingAlgorythms.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SearchingAlgorythms\obj\Debug\net5.0\ref\SearchingAlgorythms.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SearchingAlgorythms\obj\Debug\net5.0\SearchingAlgorythms.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SearchingAlgorythms\obj\Debug\net5.0\SearchingAlgorythms.genruntimeconfig.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SearchingAlgorythms\obj\Debug\net5.0\SearchingAlgorythms.csproj.AssemblyReference.cache

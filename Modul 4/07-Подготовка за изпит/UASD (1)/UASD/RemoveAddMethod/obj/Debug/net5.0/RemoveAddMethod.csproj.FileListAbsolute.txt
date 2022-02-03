@@ -1,0 +1,15 @@
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\RemoveAddMethod\bin\Debug\net5.0\RemoveAddMethod.exe
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\RemoveAddMethod\bin\Debug\net5.0\RemoveAddMethod.deps.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\RemoveAddMethod\bin\Debug\net5.0\RemoveAddMethod.runtimeconfig.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\RemoveAddMethod\bin\Debug\net5.0\RemoveAddMethod.runtimeconfig.dev.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\RemoveAddMethod\bin\Debug\net5.0\RemoveAddMethod.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\RemoveAddMethod\bin\Debug\net5.0\ref\RemoveAddMethod.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\RemoveAddMethod\bin\Debug\net5.0\RemoveAddMethod.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\RemoveAddMethod\obj\Debug\net5.0\RemoveAddMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\RemoveAddMethod\obj\Debug\net5.0\RemoveAddMethod.AssemblyInfoInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\RemoveAddMethod\obj\Debug\net5.0\RemoveAddMethod.AssemblyInfo.cs
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\RemoveAddMethod\obj\Debug\net5.0\RemoveAddMethod.csproj.CoreCompileInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\RemoveAddMethod\obj\Debug\net5.0\RemoveAddMethod.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\RemoveAddMethod\obj\Debug\net5.0\ref\RemoveAddMethod.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\RemoveAddMethod\obj\Debug\net5.0\RemoveAddMethod.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\RemoveAddMethod\obj\Debug\net5.0\RemoveAddMethod.genruntimeconfig.cache

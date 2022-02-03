@@ -1,0 +1,14 @@
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2 Methods\bin\Debug\net6.0\02.2 Methods.exe
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2 Methods\bin\Debug\net6.0\02.2 Methods.deps.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2 Methods\bin\Debug\net6.0\02.2 Methods.runtimeconfig.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2 Methods\bin\Debug\net6.0\02.2 Methods.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2 Methods\bin\Debug\net6.0\ref\02.2 Methods.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2 Methods\bin\Debug\net6.0\02.2 Methods.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2 Methods\obj\Debug\net6.0\02.2 Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2 Methods\obj\Debug\net6.0\02.2 Methods.AssemblyInfoInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2 Methods\obj\Debug\net6.0\02.2 Methods.AssemblyInfo.cs
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2 Methods\obj\Debug\net6.0\02.2 Methods.csproj.CoreCompileInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2 Methods\obj\Debug\net6.0\02.2 Methods.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2 Methods\obj\Debug\net6.0\ref\02.2 Methods.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2 Methods\obj\Debug\net6.0\02.2 Methods.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\02-Дефиниране-на-класове\02\02.2 Methods\obj\Debug\net6.0\02.2 Methods.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Projects\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe.config
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Projects\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Projects\FirstProgram\FirstProgram\bin\Debug\FirstProgram.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Projects\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csproj.AssemblyReference.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Projects\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csproj.SuggestedBindingRedirects.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Projects\FirstProgram\FirstProgram\obj\Debug\FirstProgram.Properties.Resources.resources
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Projects\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csproj.GenerateResource.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Projects\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csproj.CoreCompileInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Projects\FirstProgram\FirstProgram\obj\Debug\FirstProgram.exe
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Projects\FirstProgram\FirstProgram\obj\Debug\FirstProgram.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Projects\FirstProgram\FirstProgram\obj\Debug\FirstProgram.LoginPage.resources

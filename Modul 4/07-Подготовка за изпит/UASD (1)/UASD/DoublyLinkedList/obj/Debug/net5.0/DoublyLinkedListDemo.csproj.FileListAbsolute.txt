@@ -1,0 +1,15 @@
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DoublyLinkedList\bin\Debug\net5.0\DoublyLinkedListDemo.exe
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DoublyLinkedList\bin\Debug\net5.0\DoublyLinkedListDemo.deps.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DoublyLinkedList\bin\Debug\net5.0\DoublyLinkedListDemo.runtimeconfig.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DoublyLinkedList\bin\Debug\net5.0\DoublyLinkedListDemo.runtimeconfig.dev.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DoublyLinkedList\bin\Debug\net5.0\DoublyLinkedListDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DoublyLinkedList\bin\Debug\net5.0\ref\DoublyLinkedListDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DoublyLinkedList\bin\Debug\net5.0\DoublyLinkedListDemo.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DoublyLinkedList\obj\Debug\net5.0\DoublyLinkedListDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DoublyLinkedList\obj\Debug\net5.0\DoublyLinkedListDemo.AssemblyInfoInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DoublyLinkedList\obj\Debug\net5.0\DoublyLinkedListDemo.AssemblyInfo.cs
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DoublyLinkedList\obj\Debug\net5.0\DoublyLinkedListDemo.csproj.CoreCompileInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DoublyLinkedList\obj\Debug\net5.0\DoublyLinkedListDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DoublyLinkedList\obj\Debug\net5.0\ref\DoublyLinkedListDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DoublyLinkedList\obj\Debug\net5.0\DoublyLinkedListDemo.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DoublyLinkedList\obj\Debug\net5.0\DoublyLinkedListDemo.genruntimeconfig.cache

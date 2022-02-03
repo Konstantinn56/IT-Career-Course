@@ -1,0 +1,16 @@
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SortingAlgorythms\bin\Debug\net5.0\SortingAlgorythms.exe
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SortingAlgorythms\bin\Debug\net5.0\SortingAlgorythms.deps.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SortingAlgorythms\bin\Debug\net5.0\SortingAlgorythms.runtimeconfig.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SortingAlgorythms\bin\Debug\net5.0\SortingAlgorythms.runtimeconfig.dev.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SortingAlgorythms\bin\Debug\net5.0\SortingAlgorythms.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SortingAlgorythms\bin\Debug\net5.0\ref\SortingAlgorythms.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SortingAlgorythms\bin\Debug\net5.0\SortingAlgorythms.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SortingAlgorythms\obj\Debug\net5.0\SortingAlgorythms.csproj.AssemblyReference.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SortingAlgorythms\obj\Debug\net5.0\SortingAlgorythms.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SortingAlgorythms\obj\Debug\net5.0\SortingAlgorythms.AssemblyInfoInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SortingAlgorythms\obj\Debug\net5.0\SortingAlgorythms.AssemblyInfo.cs
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SortingAlgorythms\obj\Debug\net5.0\SortingAlgorythms.csproj.CoreCompileInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SortingAlgorythms\obj\Debug\net5.0\SortingAlgorythms.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SortingAlgorythms\obj\Debug\net5.0\ref\SortingAlgorythms.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SortingAlgorythms\obj\Debug\net5.0\SortingAlgorythms.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\SortingAlgorythms\obj\Debug\net5.0\SortingAlgorythms.genruntimeconfig.cache

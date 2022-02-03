@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "db71a142-0791-474a-91be-3596a9aa7ab3": {
+      "ProjectGuid": "db71a142-0791-474a-91be-3596a9aa7ab3",
+      "DisplayName": "12",
+      "ColorIndex": 0
+    },
+    "5d19259f-d075-46c3-ae18-713ef72c8a76": {
+      "ProjectGuid": "5d19259f-d075-46c3-ae18-713ef72c8a76",
+      "DisplayName": "BrokerCCompanySystemCode",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "3b187003-0d9e-4182-af3e-51b9e49723ee": {
+      "ProjectGuid": "3b187003-0d9e-4182-af3e-51b9e49723ee",
+      "DisplayName": "StorageMaster",
+      "ColorIndex": 2
+    },
+    "28e6bd72-053e-426e-b59f-4b5c00ed5e27": {
+      "ProjectGuid": "28e6bd72-053e-426e-b59f-4b5c00ed5e27",
+      "DisplayName": "StoreSystem",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

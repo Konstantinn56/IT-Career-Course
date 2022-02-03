@@ -1,0 +1,15 @@
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\04-Наследяване-абстракция-интерфейси\04\04\bin\Debug\net6.0\04.exe
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\04-Наследяване-абстракция-интерфейси\04\04\bin\Debug\net6.0\04.deps.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\04-Наследяване-абстракция-интерфейси\04\04\bin\Debug\net6.0\04.runtimeconfig.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\04-Наследяване-абстракция-интерфейси\04\04\bin\Debug\net6.0\04.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\04-Наследяване-абстракция-интерфейси\04\04\bin\Debug\net6.0\ref\04.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\04-Наследяване-абстракция-интерфейси\04\04\bin\Debug\net6.0\04.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\04-Наследяване-абстракция-интерфейси\04\04\obj\Debug\net6.0\04.csproj.AssemblyReference.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\04-Наследяване-абстракция-интерфейси\04\04\obj\Debug\net6.0\04.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\04-Наследяване-абстракция-интерфейси\04\04\obj\Debug\net6.0\04.AssemblyInfoInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\04-Наследяване-абстракция-интерфейси\04\04\obj\Debug\net6.0\04.AssemblyInfo.cs
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\04-Наследяване-абстракция-интерфейси\04\04\obj\Debug\net6.0\04.csproj.CoreCompileInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\04-Наследяване-абстракция-интерфейси\04\04\obj\Debug\net6.0\04.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\04-Наследяване-абстракция-интерфейси\04\04\obj\Debug\net6.0\ref\04.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\04-Наследяване-абстракция-интерфейси\04\04\obj\Debug\net6.0\04.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\04-Наследяване-абстракция-интерфейси\04\04\obj\Debug\net6.0\04.genruntimeconfig.cache

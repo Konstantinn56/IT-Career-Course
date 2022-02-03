@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "994880eb-0e97-46c5-b4ca-181b67d65385": {
+      "ProjectGuid": "994880eb-0e97-46c5-b4ca-181b67d65385",
+      "DisplayName": "01",
+      "ColorIndex": 0
+    },
+    "9b4a9b30-f1c4-4850-9640-7c4b28900191": {
+      "ProjectGuid": "9b4a9b30-f1c4-4850-9640-7c4b28900191",
+      "DisplayName": "NUnitTesting",
+      "ColorIndex": 1
+    },
+    "37a2d984-4a63-4c89-8fd8-055cb06caeb9": {
+      "ProjectGuid": "37a2d984-4a63-4c89-8fd8-055cb06caeb9",
+      "DisplayName": "TestProject1",
+      "ColorIndex": 2
+    },
+    "f1d05bd8-9971-4357-8dcb-1abb3d491887": {
+      "ProjectGuid": "f1d05bd8-9971-4357-8dcb-1abb3d491887",
+      "DisplayName": "011",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

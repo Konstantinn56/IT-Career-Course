@@ -1,0 +1,16 @@
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\ConsoleApp1\bin\Debug\net6.0\Village.exe
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\ConsoleApp1\bin\Debug\net6.0\Village.deps.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\ConsoleApp1\bin\Debug\net6.0\Village.runtimeconfig.json
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\ConsoleApp1\bin\Debug\net6.0\Village.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\ConsoleApp1\bin\Debug\net6.0\ref\Village.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\ConsoleApp1\bin\Debug\net6.0\Village.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\ConsoleApp1\obj\Debug\net6.0\Village.GlobalUsings.g.cs
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\ConsoleApp1\obj\Debug\net6.0\Village.csproj.AssemblyReference.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\ConsoleApp1\obj\Debug\net6.0\Village.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\ConsoleApp1\obj\Debug\net6.0\Village.AssemblyInfoInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\ConsoleApp1\obj\Debug\net6.0\Village.AssemblyInfo.cs
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\ConsoleApp1\obj\Debug\net6.0\Village.csproj.CoreCompileInputs.cache
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\ConsoleApp1\obj\Debug\net6.0\Village.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\ConsoleApp1\obj\Debug\net6.0\ref\Village.dll
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\ConsoleApp1\obj\Debug\net6.0\Village.pdb
+D:\School\Programieren\Git Hub\IT-Career-Course\IT-Career-Course\Modul 5\12-Подготовка-за-изпит\12\ConsoleApp1\obj\Debug\net6.0\Village.genruntimeconfig.cache

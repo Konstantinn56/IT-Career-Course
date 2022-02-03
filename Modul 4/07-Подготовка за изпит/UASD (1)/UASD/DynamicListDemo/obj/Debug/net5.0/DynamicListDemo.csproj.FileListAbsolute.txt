@@ -1,0 +1,16 @@
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DynamicListDemo\bin\Debug\net5.0\DynamicListDemo.exe
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DynamicListDemo\bin\Debug\net5.0\DynamicListDemo.deps.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DynamicListDemo\bin\Debug\net5.0\DynamicListDemo.runtimeconfig.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DynamicListDemo\bin\Debug\net5.0\DynamicListDemo.runtimeconfig.dev.json
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DynamicListDemo\bin\Debug\net5.0\DynamicListDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DynamicListDemo\bin\Debug\net5.0\ref\DynamicListDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DynamicListDemo\bin\Debug\net5.0\DynamicListDemo.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DynamicListDemo\obj\Debug\net5.0\DynamicListDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DynamicListDemo\obj\Debug\net5.0\DynamicListDemo.AssemblyInfoInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DynamicListDemo\obj\Debug\net5.0\DynamicListDemo.AssemblyInfo.cs
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DynamicListDemo\obj\Debug\net5.0\DynamicListDemo.csproj.CoreCompileInputs.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DynamicListDemo\obj\Debug\net5.0\DynamicListDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DynamicListDemo\obj\Debug\net5.0\ref\DynamicListDemo.dll
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DynamicListDemo\obj\Debug\net5.0\DynamicListDemo.pdb
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DynamicListDemo\obj\Debug\net5.0\DynamicListDemo.genruntimeconfig.cache
+D:\IT Careers\Материали ИТ Кариера 2020_2021\Увод в АСД\UASD\DynamicListDemo\obj\Debug\net5.0\DynamicListDemo.csproj.AssemblyReference.cache

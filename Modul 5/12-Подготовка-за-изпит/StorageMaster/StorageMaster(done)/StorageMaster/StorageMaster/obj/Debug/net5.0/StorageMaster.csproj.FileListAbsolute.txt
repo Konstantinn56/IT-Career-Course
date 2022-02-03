@@ -1,0 +1,16 @@
+C:\Users\weeew\source\repos\StorageMaster\StorageMaster\bin\Debug\net5.0\StorageMaster.exe
+C:\Users\weeew\source\repos\StorageMaster\StorageMaster\bin\Debug\net5.0\StorageMaster.deps.json
+C:\Users\weeew\source\repos\StorageMaster\StorageMaster\bin\Debug\net5.0\StorageMaster.runtimeconfig.json
+C:\Users\weeew\source\repos\StorageMaster\StorageMaster\bin\Debug\net5.0\StorageMaster.runtimeconfig.dev.json
+C:\Users\weeew\source\repos\StorageMaster\StorageMaster\bin\Debug\net5.0\StorageMaster.dll
+C:\Users\weeew\source\repos\StorageMaster\StorageMaster\bin\Debug\net5.0\ref\StorageMaster.dll
+C:\Users\weeew\source\repos\StorageMaster\StorageMaster\bin\Debug\net5.0\StorageMaster.pdb
+C:\Users\weeew\source\repos\StorageMaster\StorageMaster\obj\Debug\net5.0\StorageMaster.csproj.AssemblyReference.cache
+C:\Users\weeew\source\repos\StorageMaster\StorageMaster\obj\Debug\net5.0\StorageMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\weeew\source\repos\StorageMaster\StorageMaster\obj\Debug\net5.0\StorageMaster.AssemblyInfoInputs.cache
+C:\Users\weeew\source\repos\StorageMaster\StorageMaster\obj\Debug\net5.0\StorageMaster.AssemblyInfo.cs
+C:\Users\weeew\source\repos\StorageMaster\StorageMaster\obj\Debug\net5.0\StorageMaster.csproj.CoreCompileInputs.cache
+C:\Users\weeew\source\repos\StorageMaster\StorageMaster\obj\Debug\net5.0\StorageMaster.dll
+C:\Users\weeew\source\repos\StorageMaster\StorageMaster\obj\Debug\net5.0\ref\StorageMaster.dll
+C:\Users\weeew\source\repos\StorageMaster\StorageMaster\obj\Debug\net5.0\StorageMaster.pdb
+C:\Users\weeew\source\repos\StorageMaster\StorageMaster\obj\Debug\net5.0\StorageMaster.genruntimeconfig.cache
