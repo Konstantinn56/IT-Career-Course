@@ -25,7 +25,12 @@
       "ProjectGuid": "28e6bd72-053e-426e-b59f-4b5c00ed5e27",
       "DisplayName": "StoreSystem",
       "ColorIndex": 3
+    },
+    "3fa59370-8f24-47d6-8387-ba06b2890cda": {
+      "ProjectGuid": "3fa59370-8f24-47d6-8387-ba06b2890cda",
+      "DisplayName": "Village",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }

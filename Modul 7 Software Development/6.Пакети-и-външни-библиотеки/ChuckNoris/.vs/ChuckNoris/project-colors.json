@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "efc44b6f-1b81-4847-91fc-c10b502da126": {
+      "ProjectGuid": "efc44b6f-1b81-4847-91fc-c10b502da126",
+      "DisplayName": "ChuckNoris",
+      "ColorIndex": 0
+    },
+    "64fbaa95-890a-42c0-aa6b-adb5b6051297": {
+      "ProjectGuid": "64fbaa95-890a-42c0-aa6b-adb5b6051297",
+      "DisplayName": "Exericse",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

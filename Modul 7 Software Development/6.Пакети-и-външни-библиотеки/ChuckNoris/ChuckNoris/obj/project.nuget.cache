@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HCDixjw4YxLcdmXizgxgPgOXJmZpH/QrTvLCRC+iZoR2QmYXhdQy750akpfeJ6oKr7SmUi+3rv6LyG+783+qJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kocep\\OneDrive\\Desktop\\IT-Career\\Modul 7 Software Development\\6.Пакети-и-външни-библиотеки\\ChuckNoris\\ChuckNoris\\ChuckNoris.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kocep\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
