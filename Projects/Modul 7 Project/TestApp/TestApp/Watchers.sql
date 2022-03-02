@@ -1,0 +1,9 @@
+﻿USE MoviesCatalog
+GO
+
+CREATE TABLE Watchers
+(
+	Id INT IDENTITY PRIMARY KEY,
+	Name VARCHAR(100) NOT NULL,
+	Age INT NOT NULL
+);

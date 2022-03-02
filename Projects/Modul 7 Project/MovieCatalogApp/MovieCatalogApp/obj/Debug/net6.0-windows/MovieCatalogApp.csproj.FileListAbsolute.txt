@@ -1,0 +1,17 @@
+C:\Users\kocep\OneDrive\Desktop\IT-Career\Projects\Modul 7 Project\MovieCatalogApp\MovieCatalogApp\bin\Debug\net6.0-windows\MovieCatalogApp.exe
+C:\Users\kocep\OneDrive\Desktop\IT-Career\Projects\Modul 7 Project\MovieCatalogApp\MovieCatalogApp\bin\Debug\net6.0-windows\MovieCatalogApp.deps.json
+C:\Users\kocep\OneDrive\Desktop\IT-Career\Projects\Modul 7 Project\MovieCatalogApp\MovieCatalogApp\bin\Debug\net6.0-windows\MovieCatalogApp.runtimeconfig.json
+C:\Users\kocep\OneDrive\Desktop\IT-Career\Projects\Modul 7 Project\MovieCatalogApp\MovieCatalogApp\bin\Debug\net6.0-windows\MovieCatalogApp.dll
+C:\Users\kocep\OneDrive\Desktop\IT-Career\Projects\Modul 7 Project\MovieCatalogApp\MovieCatalogApp\bin\Debug\net6.0-windows\MovieCatalogApp.pdb
+C:\Users\kocep\OneDrive\Desktop\IT-Career\Projects\Modul 7 Project\MovieCatalogApp\MovieCatalogApp\obj\Debug\net6.0-windows\MovieCatalogApp.csproj.AssemblyReference.cache
+C:\Users\kocep\OneDrive\Desktop\IT-Career\Projects\Modul 7 Project\MovieCatalogApp\MovieCatalogApp\obj\Debug\net6.0-windows\MovieCatalogApp.Form1.resources
+C:\Users\kocep\OneDrive\Desktop\IT-Career\Projects\Modul 7 Project\MovieCatalogApp\MovieCatalogApp\obj\Debug\net6.0-windows\MovieCatalogApp.csproj.GenerateResource.cache
+C:\Users\kocep\OneDrive\Desktop\IT-Career\Projects\Modul 7 Project\MovieCatalogApp\MovieCatalogApp\obj\Debug\net6.0-windows\MovieCatalogApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kocep\OneDrive\Desktop\IT-Career\Projects\Modul 7 Project\MovieCatalogApp\MovieCatalogApp\obj\Debug\net6.0-windows\MovieCatalogApp.AssemblyInfoInputs.cache
+C:\Users\kocep\OneDrive\Desktop\IT-Career\Projects\Modul 7 Project\MovieCatalogApp\MovieCatalogApp\obj\Debug\net6.0-windows\MovieCatalogApp.AssemblyInfo.cs
+C:\Users\kocep\OneDrive\Desktop\IT-Career\Projects\Modul 7 Project\MovieCatalogApp\MovieCatalogApp\obj\Debug\net6.0-windows\MovieCatalogApp.csproj.CoreCompileInputs.cache
+C:\Users\kocep\OneDrive\Desktop\IT-Career\Projects\Modul 7 Project\MovieCatalogApp\MovieCatalogApp\obj\Debug\net6.0-windows\MovieCatalogApp.dll
+C:\Users\kocep\OneDrive\Desktop\IT-Career\Projects\Modul 7 Project\MovieCatalogApp\MovieCatalogApp\obj\Debug\net6.0-windows\refint\MovieCatalogApp.dll
+C:\Users\kocep\OneDrive\Desktop\IT-Career\Projects\Modul 7 Project\MovieCatalogApp\MovieCatalogApp\obj\Debug\net6.0-windows\MovieCatalogApp.pdb
+C:\Users\kocep\OneDrive\Desktop\IT-Career\Projects\Modul 7 Project\MovieCatalogApp\MovieCatalogApp\obj\Debug\net6.0-windows\MovieCatalogApp.genruntimeconfig.cache
+C:\Users\kocep\OneDrive\Desktop\IT-Career\Projects\Modul 7 Project\MovieCatalogApp\MovieCatalogApp\obj\Debug\net6.0-windows\ref\MovieCatalogApp.dll

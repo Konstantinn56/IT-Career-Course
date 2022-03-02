@@ -23,7 +23,7 @@ namespace GymTuto
         {
             connection.Open();
 
-            string query = "SELECT * FROM Members";
+            string query = "SELECT MId, MName FROM Members WHERE MId = 1";
             SqlDataAdapter adapter = new SqlDataAdapter(query,connection);
             var ds = new DataSet();
             adapter.Fill(ds);
@@ -61,5 +61,12 @@ namespace GymTuto
         {
             showInfo();
         }
+
+        private void MembersSDGV_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        
     }
 }

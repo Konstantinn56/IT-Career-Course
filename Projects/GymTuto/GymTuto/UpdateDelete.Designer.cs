@@ -365,6 +365,7 @@
             this.MembersSDGV.RowTemplate.Height = 25;
             this.MembersSDGV.Size = new System.Drawing.Size(806, 526);
             this.MembersSDGV.TabIndex = 66;
+            this.MembersSDGV.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.MembersSDGV_CellContentClick);
             // 
             // UpdateDelete
             // 

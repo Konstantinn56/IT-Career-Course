@@ -63,5 +63,10 @@ namespace GymTuto
         {
             populate();
         }
+
+        private void MemberSDGV_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

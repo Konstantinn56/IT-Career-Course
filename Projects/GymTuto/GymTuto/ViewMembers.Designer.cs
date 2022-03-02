@@ -95,6 +95,7 @@
             this.MemberSDGV.RowTemplate.Height = 25;
             this.MemberSDGV.Size = new System.Drawing.Size(806, 308);
             this.MemberSDGV.TabIndex = 65;
+            this.MemberSDGV.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.MemberSDGV_CellContentClick);
             // 
             // maskedTextBox1
             // 

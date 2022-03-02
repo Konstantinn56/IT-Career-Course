@@ -1,0 +1,10 @@
+﻿CREATE DATABASE MoviesCatalog
+GO
+USE MoviesCatalog
+
+CREATE TABLE Movies
+(
+	Id INT IDENTITY PRIMARY KEY,
+	Name VARCHAR(100) NOT NULL,
+	Stars INT NOT NULL
+);
